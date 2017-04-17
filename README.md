@@ -36,7 +36,7 @@
 
 **贡献内容， 提建议 或者修复Github上的bugs**:
 
-* [https://github.com/ikcamp/front-end-handbook-2017-cn](https://github.com/ikcamp/front-end-handbook-2017-cn)
+* [https://github.com/xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017)
 
 ***
 
