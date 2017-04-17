@@ -4,11 +4,11 @@
 
 作者：[科迪·林黎（Cody Lindley）](http://codylindley.com/)，由[「前端大师（Frontend Masters）」](https://frontendmasters.com/)倾情赞助。
 
-这是一本可供任何人使用的指南，用于学习前端开发实践。该指南大体上勾勒出了前端工程的轮廓，同时也讨论了前端工程的实践：2017年，如何学习前端工程，用什么工具来实践？
+这是一本可供任何人使用的指南，用于学习前端开发实践。该指南大体上勾勒出了前端工程的轮廓，同时也讨论了前端工程的实践：2017 年，如何学习前端工程，用什么工具来实践？
 
 笔者有意将本书打造为一份专业资料，为想要或正在实践的前端开发者们提供学习材料和开发工具。其次，它同样可供主管、CTO、讲师和猎头们深入探索前端开发实践。
 
-本书内容偏向于WEB技术（HTML，CSS，DOM，JavaScript）和以这些技术为根基直接构建而成的开源技术。书中引用和讨论的材料要么就是同类翘楚，要么就是解决问题的流行方案。
+本书内容偏向于 WEB 技术（HTML、CSS、DOM、JavaScript）和以这些技术为根基直接构建而成的开源技术。书中引用和讨论的材料要么就是同类翘楚，要么就是解决问题的流行方案。
 
 本书不是一本囊括所有前端可用资源的综合纲领。其价值在于为恰好够用的分类信息搜罗简洁、聚焦且符合时宜的甄选内容，以免在特别话题下钻了牛角尖。
 
@@ -34,7 +34,7 @@
 
 * [https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-**贡献内容， 提建议 或者修复Github上的bugs**:
+**贡献内容， 提建议 或者修复 GitHub 上的 bugs**:
 
 * [https://github.com/xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017)
 
