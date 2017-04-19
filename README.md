@@ -46,5 +46,5 @@
 
 ## 致谢
 
-- [沪江前端团队]()
+- [沪江Web前端团队](https://github.com/hujiang-fe)
 - [掘金翻译计划](https://github.com/xitu/gold-miner/)
