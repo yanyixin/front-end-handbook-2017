@@ -1,6 +1,7 @@
 # 前端开发者指南（2017）
 
 [![掘金翻译计划](https://rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://github.com/xitu/gold-miner/)
+[![沪江Web前端团队](https://cdn.rawgit.com/Hujiang-FE/icons/fff32467/logo.svg)](https://github.com/hujiang-fe)
 
 ![cover-img](http://frontendmasters.com/books/front-end-handbook/2017/cover.jpg)
 
