@@ -1,5 +1,7 @@
 # 前端开发者指南（2017）
 
+[![掘金翻译计划](https://rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://github.com/xitu/gold-miner/)
+
 ![cover-img](http://frontendmasters.com/books/front-end-handbook/2017/cover.jpg)
 
 作者：[科迪·林黎（Cody Lindley）](http://codylindley.com/)，由[「前端大师（Frontend Masters）」](https://frontendmasters.com/)倾情赞助。
@@ -40,4 +42,9 @@
 
 ***
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />本文档基于 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a> 协议发布。
+
+## 致谢
+
+- [沪江前端团队]()
+- [掘金翻译计划](https://github.com/xitu/gold-miner/)
