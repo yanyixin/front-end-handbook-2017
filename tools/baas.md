@@ -24,7 +24,31 @@
 * [Stormpath](https://stormpath.com/)
 * [UserApp](https://www.userapp.io/) [free to $]
 
+# 后端／API工具
 
+##### 数据／后端作为一项服务服务（BAAS）:
+
+* [Back&](https://www.backand.com/) [免费]
+* [Firebase](https://www.firebase.com/index.html) [免费]
+* [Kinvey](http://www.kinvey.com/) [免费]
+* [Pusher](https://pusher.com/) [免费]
+* [restdb.io](https://restdb.io/) [免费]
+
+##### 数据／后端
+
+* [Horizon](http://horizon.io/)
+* [GraphQL](http://graphql.org/)
+  * [http://www.apollodata.com/](http://www.apollodata.com/)
+  * [Relay](https://facebook.github.io/relay/)
+* [Falcor](https://netflix.github.io/falcor/)
+* [RxDB](https://github.com/pubkey/rxdb)
+
+##### 用户管理作为一项服务:
+
+* [Auth0](https://auth0.com) [$]
+* [AuthRocket](https://authrocket.com)
+* [Stormpath](https://stormpath.com/)
+* [UserApp](https://www.userapp.io/) [免费]
 
 
 
