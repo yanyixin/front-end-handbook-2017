@@ -14,7 +14,6 @@
 
 # 关于因特网／WEB
 
-> The Internet is a global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link several billion devices worldwide. It is a network of networks that consists of millions of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and peer-to-peer networks for file sharing.
 > 因特网是一个基于因特网协议（TCP／IP）的，用以连接全球上亿设备的计算机网络系统。这个网络系统由数以百万计的更小型的网络结构组成，包括私人、公共、学术机构、商业组织、政府部门等。这些虚拟网络依赖于实体世界中广泛分布的电子、无线以及光学网络系统。因特网承载着规模可观的信息源和服务，例如万维网（WWW）的超文本文档和网络应用，电子邮件，电话通讯以及单对单的文件分享。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Internet)</cite>
