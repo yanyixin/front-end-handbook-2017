@@ -11,7 +11,7 @@
 * [HTML5 + JavaScript 动效基础原理](http://www.amazon.com/Foundation-HTML5-Animation-JavaScript-Lamberta/dp/1430236655/ref=sr_1_3) [付费][阅读]
 * [学习运用 JavaScript 制作动效](http://www.kirupa.com/javascript_animations/index.htm) [阅读 & 视频]
 * [动效现状 —— 2015](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) [视频]
-* [Javascript 动画制作: 开发与设计](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) [付费][阅读]
+* [Javascript 动画制作：开发与设计](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) [付费][阅读]
 
 ##### 标准规范:
 
