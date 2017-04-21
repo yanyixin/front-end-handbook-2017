@@ -1,72 +1,12 @@
-# Site/App Monitoring Tools
-
-##### Uptime Monitoring:
-
-* [Monitority](http://monitority.com/) [free]
-* [Uptime Robot](https://uptimerobot.com/) [free to $]
-
-##### General Monitoring Tools:
-
-* [Pingdom](https://www.pingdom.com/) [free to $]
-* [New Relic](http://newrelic.com/)
-* [Uptrends](https://www.uptrends.com/) [$]
-
 # 网站／应用监控工具
 
-##### 响应时间监测:
+##### 正常运行时间监测：
 
-* [Monitority](http://monitority.com/) [free]
-* [Uptime Robot](https://uptimerobot.com/) [free to $]
+* [Monitority](http://monitority.com/) [免费]
+* [Uptime Robot](https://uptimerobot.com/) [免费增值]
 
-##### 整体监测:
+##### 整体监测工具：
 
-* [Pingdom](https://www.pingdom.com/) [free to $]
+* [Pingdom](https://www.pingdom.com/) [免费增值]
 * [New Relic](http://newrelic.com/)
-* [Uptrends](https://www.uptrends.com/) [$]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [Uptrends](https://www.uptrends.com/) [免费]
