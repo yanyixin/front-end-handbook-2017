@@ -34,7 +34,6 @@ We are still waiting on a support in browsers for loading modules. Until then yo
 
 ###### 注释:
 
-We are still waiting on a support in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader) and ["JavaScript Loader Standard"](https://whatwg.github.io/loader/).
 关于浏览器加载模块的部分，我们仍在寻求支持，在那之前请参考["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader) 以及 ["JavaScript Loader Standard"](https://whatwg.github.io/loader/).
 
 
