@@ -26,13 +26,13 @@
 ##### 应用程序界面 内容管理系统（content management system） (i.e., 内容分发 CMS) 工具:
 
 * [Contentful](https://www.contentful.com/) [$]
-* [Cosmic JS](https://cosmicjs.com/) [free to $]
-* [prismic.io](https://prismic.io/) [free to $]
-* [elemeno](https://elemeno.io) [free to $]
+* [Cosmic JS](https://cosmicjs.com/) [免费]
+* [prismic.io](https://prismic.io/) [免费]
+* [elemeno](https://elemeno.io) [免费]
 
 ##### 托管 CMS 工具:
 
-* [Cushy CMS](https://www.cushycms.com) [free to $]
+* [Cushy CMS](https://www.cushycms.com) [免费]
 * [LightCMS](https://www.lightcms.com) [$]
 * [Page Lime](http://www.pagelime.com/) [$]
 * [Surreal CMS](http://www.surrealcms.com/) [$]
