@@ -45,16 +45,16 @@ A website or web application can run on a wide range of computers, laptops, tabl
 
 ##### 概述:
 
-* [一分为二（上） - 响应式网站设计](https://abookapart.com/collections/responsive-design) [read][$]
-* [一分为二（下） - 适用于所有设备的设计方案](https://abookapart.com/collections/design-for-any-device) [read][$]
-* [自适应网站设计](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) [read][$]
-* [符合渐进增强原则的设计](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [read][$]
-* [移动端网站开发](https://www.udacity.com/course/mobile-web-development--cs256) [watch]
-* [响应式 HTML 邮件设计](https://frontendmasters.com/courses/responsive-email/) [watch][$]
-* [响应式图片](https://www.udacity.com/course/responsive-images--ud882) [watch]
-* [响应式字体](https://www.pluralsight.com/courses/responsive-typography) [watch][$]
-* [响应式网站设计](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
-* [响应式网站设计基础](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [watch]
+* [一分为二（上） - 响应式网站设计](https://abookapart.com/collections/responsive-design) [文章][$]
+* [一分为二（下） - 适用于所有设备的设计方案](https://abookapart.com/collections/design-for-any-device) [文章][$]
+* [自适应网站设计](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) [文章][$]
+* [符合渐进增强原则的设计](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [文章][$]
+* [移动端网站开发](https://www.udacity.com/course/mobile-web-development--cs256) [视频]
+* [响应式 HTML 邮件设计](https://frontendmasters.com/courses/responsive-email/) [视频][$]
+* [响应式图片](https://www.udacity.com/course/responsive-images--ud882) [视频]
+* [响应式字体](https://www.pluralsight.com/courses/responsive-typography) [视频][$]
+* [响应式网站设计](https://frontendmasters.com/courses/responsive-web-design/) [视频][$]
+* [响应式网站设计基础](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [视频]
 
 ##### 响应式内部通讯，新闻或者播客网站:
 
