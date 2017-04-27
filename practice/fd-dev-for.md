@@ -1,7 +1,6 @@
-# Front-End Developers Develop For...
+# 前端开发者开发是为了...
 
-A front-end developer crafts HTML, CSS, and JS that typically runs on the [web platform](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)
-(e.g. a web browser) delivered from one of the following operating systems (aka OSs):
+前端开发者开发 HTML、CSS 和 JS，它们通常在[web 平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(比如 web 浏览器)上运行，web 平台基于下列某种操作系统（或称 OS）：
 
 * Android
 * Chromium
@@ -11,25 +10,26 @@ A front-end developer crafts HTML, CSS, and JS that typically runs on the [web p
 * Windows Phone
 * Windows
 
-These operating systems typically run on one or more of the following devices:
+这些操作系统通常运行在下列一种或者多种设备上：
 
-* Desktop computer
-* Laptop / netbook computer
-* Mobile phone
-* Tablet
-* TV
-* Watch
-* Things (i.e., anything you can imagine, car, refrigerator, lights, thermostat, etc.)
+* 台式机
+* 笔记本／上网本
+* 手机
+* 平板
+* 电视
+* 手表
+* 其他东西（即汽车、冰箱、灯具、温控器等任何你能想到的东西）
 
 ![](../images/growth-iot.jpg "https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/")
 
-<cite>Image source: <a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
+<cite>图片源: <a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
 
-Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time web platform scenarios:
+总体来说，前端技术可以在上述操作系统上运行，也能在使用下列运行时 web 平台方案的设备上运行：
 
-* A web browser (examples: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)).
-* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples: [phantomJS](http://phantomjs.org/)).
+* web 浏览器（例如：[Chrome, IE, Safari, 火狐](http://outdatedbrowser.com/en)）
+* [无头浏览器](https://en.wikipedia.org/wiki/Headless_browser)（例如：[phantomJS](http://phantomjs.org/)）
 * A [WebView](http://developer.telerik.com/featured/what-is-a-webview/)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native APIs. WebView applications typically contain a UI constructed from web technologies. (i.e., HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
+* [WebView](http://developer.telerik.com/featured/what-is-a-webview/)／浏览器标签（想想 iframe）
 * A native application built from web tech that is interpreted at runtime with a bridge to native APIs. The UI will make use of native UI parts (e.g., iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
 
 
