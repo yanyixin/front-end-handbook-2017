@@ -1,31 +1,15 @@
-# Hosting Tools
-
-##### General
-
-* [AWS](https://aws.amazon.com/websites/) [$]
-* [DigitalOcean](https://digitalocean.com) [$]
-* [Heroku](https://heroku.com) [free to $]
-
-##### Static
-
-* [Firebase Hosting](https://firebase.google.com/docs/hosting/)
-* [netlify](https://www.netlify.com) [free to $]
-  * [Bitballoon](https://www.bitballoon.com/)
-* [Surge](https://surge.sh/) [free to $]
-* [Forge](https://getforge.com/) [$]
-
-# 主机工具
+# 托管工具
 
 ##### 通用工具
 
-* [AWS](https://aws.amazon.com/websites/) [$]
-* [DigitalOcean](https://digitalocean.com) [$]
-* [Heroku](https://heroku.com) [free to $]
+* [AWS](https://aws.amazon.com/websites/) [付费]
+* [DigitalOcean](https://digitalocean.com) [付费]
+* [Heroku](https://heroku.com) [免费增值]
 
 ##### 静态工具
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/)
-* [netlify](https://www.netlify.com) [free to $]
+* [netlify](https://www.netlify.com) [免费增值]
   * [Bitballoon](https://www.bitballoon.com/)
-* [Surge](https://surge.sh/) [free to $]
-* [Forge](https://getforge.com/) [$]
+* [Surge](https://surge.sh/) [免费增值]
+* [Forge](https://getforge.com/) [付费]
