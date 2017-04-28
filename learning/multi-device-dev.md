@@ -7,8 +7,8 @@
 
 网站与网络应用总是能够在种类繁多的个人电脑，手提电脑，平板电脑和手机中运行。除此以外，许多的新型设备如手表，恒温器，冰箱等也开始支持同样的功能。决定支持怎样的设备，以及怎样进行开发来支持这些设备的过程，我们称之为“多设备开发策略”。下面列出的是最常见的多设备开发策略。
 
-* 为所有的设备搭建一个响应式 （[ RWD ]）(https://en.wikipedia.org/wiki/Responsive_web_design)网站／应用。
-* 为所有的设备搭建一个[自适应] (https://en.wikipedia.org/wiki/Adaptive_web_design) 的网站／应用。
+* 为所有的设备搭建一个响应式 （[ RWD ](https://en.wikipedia.org/wiki/Responsive_web_design))网站／应用。
+* 为所有的设备搭建一个 [ 自适应 ] (https://en.wikipedia.org/wiki/Adaptive_web_design) 的网站／应用。
 * 为每个不同设备或设备群体搭建网站，网络应用，或者混合模式的移动应用。
 * 采用以上 1，2，3 点中的某些方式，重构已存在的项目。
 
