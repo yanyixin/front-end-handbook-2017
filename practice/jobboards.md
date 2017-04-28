@@ -1,6 +1,6 @@
-# Front-End Job Boards
+# 开端开发职位公示
 
-A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
+市面上已有许多职位公示网站，下面是目前与前端开发最具相关性的职位公示网站列表：
 
 * [angularjobs.com](http://angularjobs.com/)
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
@@ -18,7 +18,7 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 
 ###### NOTES:
 
-Looking for a remote front-end Job, check out these [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
+如果你想找远程办公的职位，请移步 [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
 
 
 
