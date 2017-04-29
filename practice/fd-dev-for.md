@@ -1,4 +1,4 @@
-# 前端开发者开发是为了...
+# 前端开发者为 ... 而开发
 
 前端开发者开发 HTML、CSS 和 JS，它们通常在[web 平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(比如 web 浏览器)上运行，web 平台基于下列某种操作系统（或称 OS）：
 
@@ -28,9 +28,9 @@
 
 * web 浏览器（例如：[Chrome, IE, Safari, 火狐](http://outdatedbrowser.com/en)）
 * [无头浏览器](https://en.wikipedia.org/wiki/Headless_browser)（例如：[phantomJS](http://phantomjs.org/)）
-* A [WebView](http://developer.telerik.com/featured/what-is-a-webview/)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native APIs. WebView applications typically contain a UI constructed from web technologies. (i.e., HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
-* [WebView](http://developer.telerik.com/featured/what-is-a-webview/)／浏览器标签（想想 iframe）
-* A native application built from web tech that is interpreted at runtime with a bridge to native APIs. The UI will make use of native UI parts (e.g., iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
+* 拥有原生 API 桥梁的运行环境，被嵌入原生应用的 [WebView](http://developer.telerik.com/featured/what-is-a-webview/)／浏览器标签（想想 iframe）。通常 WebView 应用包含用 web 技术（也就是 HTML、CSS 和 JS）构造的 UI。 (例如: [Apache Cordova](https://cordova.apache.org/)、[NW.js](http://nwjs.io/)、[Electron](http://electron.atom.io/))
+* web 技术构建的原生应用，该类 web 技术被整合在含原生 API 桥梁的运行环境中。其 UI 使用原生部分（比如 IOS 原生控件）而非 web 技术(例如: [NativeScript](https://www.nativescript.org/)、[React Native](https://facebook.github.io/react-native/))。
+
 
 
  
