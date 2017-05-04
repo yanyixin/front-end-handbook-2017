@@ -45,7 +45,7 @@
 
 ###### 建议：
 
-[^1] 我强烈建议使用 [Visual Studio Code](https://code.visualstudio.com/) ，因为这款编辑器非常优质并且处于持续的更新中。因为这是微软出品的软件，因此质量和更新速度都会得到有效保证。
+[^1] 强烈建议使用 [Visual Studio Code](https://code.visualstudio.com/) ，这款编辑器非常优质并且处于持续的更新中 ——— 作为微软出品的软件，质量和更新速度都能够到有效保证。
 
 
 
