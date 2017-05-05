@@ -1,11 +1,10 @@
-# CSS Tools
+# CSS 工具集
 
-##### Desktop & Mobile CSS Frameworks:
-
+##### 桌面和移动 CSS 框架：
 * [Base](http://getbase.org/)
 * [Basscss](http://basscss.com/)
 * [Bulma](http://bulma.io/)
-* [Bootstrap 3](http://getbootstrap.com/components/) or [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+* [Bootstrap 3](http://getbootstrap.com/components/) 或者 [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 * [Concise](http://concisecss.com/)
 * [Foundation](http://foundation.zurb.com/)
 * [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
@@ -17,17 +16,17 @@
 * [Spectre.css](https://picturepan2.github.io/spectre/)
 * [tachyons](https://github.com/tachyons-css/tachyons/)
 
-##### Mobile Only CSS Frameworks:
+##### 移动 CSS 框架：
 
 * [Ratchet](http://goratchet.com/)
 
-##### CSS Reset:
+##### CSS 重置:
 
-> A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
+> 一个css重置文件（或者是 “Reset CSS”）是简短的，经常压缩（缩小）一组将所有 HTML 元素的样式重置为一致的水平线的 css 规则。
 
 ><cite>&#8212; [cssreset.com](http://cssreset.com/what-is-a-css-reset/)</cite>
 
-* [Eric Meyer's “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
+* [Eric Meyer 的 “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)
 
 ##### Transpiling:
@@ -38,19 +37,19 @@
 * [Sass/SCSS](http://sass-lang.com/)
 * [Stylus](https://github.com/stylus/stylus)
 
-##### References:
+##### 参考文献:
 
-* [CSS Cursors](http://csscursor.info/)
+* [CSS 光标](http://csscursor.info/)
 * [css3test.com](http://css3test.com/)
 * [css3clickchart.com](http://css3clickchart.com/)
 * [cssreference.io](http://cssreference.io/)
-* [CSS Indexes - A listing of every term defined by CSS specs](https://drafts.csswg.org/indexes/)
+* [CSS 标准 - 由 CSS 标准定义的一个术语列表](https://drafts.csswg.org/indexes/)
 * [css4-selectors.com](http://css4-selectors.com/)
 * [css4 Rocks](http://css4.rocks/)
-* [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
-* [CSS Tricks Almanac](https://css-tricks.com/almanac/)
+* [CSS TRIGGERS... 布局游戏，绘画和合成](http://csstriggers.com/)
+* [CSS 技巧年鉴](https://css-tricks.com/almanac/)
 * [cssvalues.com](http://cssvalues.com/)
-* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN CSS 参考](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ##### Linting/Hinting:
 
