@@ -1,6 +1,6 @@
-# Learn HTML & CSS
+# 学习 HTML 和 CSS
 
-> **HTML** - HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.
+> **HTML** - 超文本标记语言, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/HTML)</cite>
 
