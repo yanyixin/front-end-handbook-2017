@@ -1,51 +1,51 @@
-# Front-End Newsletters, News Sites, &amp; Podcasts
+# 前端资讯、新闻站和播客
 
-##### General Front-End Newsletters, News, &amp; Podcasts:
+##### 通用前端资讯、新闻和播客：
 
-* [The Big Web Show](http://5by5.tv/bigwebshow)
-* [Dev Tips](https://umaar.com/dev-tips/)
-* [Front-End Dev Weekly](http://frontenddevweekly.com/)
-* [Front End Happy Hour](http://frontendhappyhour.com/)
-* [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
-* [Front-End Front](http://frontendfront.com/)
-* [FrontEnd Focus](http://frontendfocus.co/)
-* [Front End Newsletter](http://frontendnewsletter.com/)
-* [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/)
-* [Mobile Web Weekly](http://mobilewebweekly.co/)
-* [Non Breaking Space Show](http://nonbreakingspace.tv)
-* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
-* [ShopTalk Show](http://shoptalkshow.com/)
-* [UX Design Newsletter](http://uxdesignnewsletter.com/)
-* [The Versioning Show by SitePoint](https://www.sitepoint.com/versioning-show/)
-* [The Web Ahead](http://thewebahead.net/)
-* [Web Development Reading List](https://wdrl.info/)
-* [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
-* [Web Tools Weekly](http://webtoolsweekly.com/)
+* [超级 Web 秀](http://5by5.tv/bigwebshow)
+* [开发小帖士](https://umaar.com/dev-tips/)
+* [前端开发周报](http://frontenddevweekly.com/)
+* [前端欢乐时光](http://frontendhappyhour.com/)
+* [5 分钟前端新闻](https://frontendfive.codeschool.com/)
+* [前端前沿](http://frontendfront.com/)
+* [前端关注](http://frontendfocus.co/)
+* [前端资讯](http://frontendnewsletter.com/)
+* [前端博客](https://frontsidethepodcast.simplecast.fm/)
+* [移动 Web 周报](http://mobilewebweekly.co/)
+* [不换行空格秀](http://nonbreakingspace.tv)
+* [开源 Web 平台每日文摘](http://webplatformdaily.org/)
+* [行话秀](http://shoptalkshow.com/)
+* [UX 设计资讯](http://uxdesignnewsletter.com/)
+* [变形秀 - SitePoint](https://www.sitepoint.com/versioning-show/)
+* [Web 前瞻](http://thewebahead.net/)
+* [Web 开发阅读清单](https://wdrl.info/)
+* [Web 平台播客](http://thewebplatform.libsyn.com/)
+* [Web 工具周报](http://webtoolsweekly.com/)
 
 
-##### HTML/CSS Newsletters:
+##### HTML/CSS 资讯：
 
-* [Accessibility Weekly](http://a11yweekly.com/)
-* [CSS Weekly](http://css-weekly.com/archives/)
-* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [可访问性周报](http://a11yweekly.com/)
+* [CSS 周报](http://css-weekly.com/archives/)
+* [响应式设计周报](http://responsivedesignweekly.com/)
 
-##### JavaScript Newsletters, News, &amp; Podcasts:
+##### JavaScript 资讯、新闻和播客：
 
-* [Echo JS](http://www.echojs.com/)
-* [ECMAScript Daily](https://ecmascript-daily.github.io/)
-* [ES.next News](http://esnextnews.com/)
+* [JS 回声](http://www.echojs.com/)
+* [ECMAScript 日报](https://ecmascript-daily.github.io/)
+* [ES.next 新闻](http://esnextnews.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
-* [JavaScript Air](https://javascriptair.com/)
-* [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [JavaScript 播送](https://javascriptair.com/)
+* [闲谈 JavaScript](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
-* [JavaScript Live](https://jslive.com/)
-* [JavaScript Weekly](http://javascriptweekly.com/)
+* [JavaScript 在线](https://jslive.com/)
+* [JavaScript 周报](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
-* [React Status](https://react.statuscode.com/)
+* [React 动态](https://react.statuscode.com/)
 
-##### Graphic and Animation Newsletters and Podcasts
+##### 图形和动画 资讯、新闻和播客：
 
-* [Motion and Meaning](http://motionandmeaning.io/)
-* [Responsive Images Community Group Newsletter](https://responsiveimages.org/#newsletter)
-* [SVG Immersion Podcast](http://svgimmersion.com/)
-* [Web Animation Weekly](http://webanimationweekly.com/)
+* [运动及意义](http://motionandmeaning.io/)
+* [响应式图片社区小组资讯](https://responsiveimages.org/#newsletter)
+* [SVG 沉浸式播客](http://svgimmersion.com/)
+* [Web 动效周报](http://webanimationweekly.com/)
