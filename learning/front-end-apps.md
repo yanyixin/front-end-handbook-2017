@@ -1,55 +1,55 @@
-# Learn Front-End Application Architecture
+# 学习前端应用的架构知识
 
-##### General Learning: [^1] 
+##### 概论: [^1] 
 
-* [JavaScript Application Design](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) [read][$]
-* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) [read]
+* [JavaScript 应用设计](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) [read][$]
+* [编写 JavaScript 应用代码](http://chimera.labs.oreilly.com/books/1234000000262/index.html) [read]
 
-##### Deprecated Learning Materials:
+##### 过时的学习材料:
 
-* [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) [watch][$]
-* [Building Modern Single-Page Web Applications](https://frontendmasters.com/courses/modern-web-apps/) [watch][$]
-* [Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html) [read]
-* [A Field Guide to Static Apps](http://www.staticapps.org/) [read]
-* [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) [read]
-* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
-* [Human JavaScript](http://read.humanjavascript.com/) [read]
-* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) [watch]
-* [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/) [watch][$]
-* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) [read]
-* [Terrific](http://terrifically.org/) [read]
-* [UI Architecture](http://www.pluralsight.com/courses/web-ui-architecture) [watch][$]
-* [Web UI Architecture](https://frontendmasters.com/courses/web-ui-architecture/) [watch][$]
-
-***
-
-###### NOTES:
-
-Not a lot of general content is being created on this topic as of late. Most of the content offered for learning how to build front-end/SPA/JavaScript applications presupposes you've decided up a tool like Angular, Ember, React, or Aurelia.
+* [用 React 和 Ampersand 构建应用](http://learn.humanjavascript.com/react-ampersand) [watch][$]
+* [构建现代的单页网络应用](https://frontendmasters.com/courses/modern-web-apps/) [watch][$]
+* [流畅的 JavaScript: 模块化](http://eloquentjavascript.net/10_modules.html) [read]
+* [静态应用工作指南](http://www.staticapps.org/) [read]
+* [网络应用工作指南](http://www.html5rocks.com/webappfieldguide/toc/index/) [read]
+* [前端参考问卷](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
+* [对人类友好的 JavaScript](http://read.humanjavascript.com/) [read]
+* [Nicholas Zakas: 可扩展的 JavaScript 应用的构建方法](https://www.youtube.com/watch?v=vXjVFPosQHw) [watch]
+* [JavaScript 功能组织](https://frontendmasters.com/courses/organizing-javascript/) [watch][$]
+* [构建大型 Javascript 应用](http://addyosmani.com/largescalejavascript/) [read]
+* [绝无仅有地出色](http://terrifically.org/) [read]
+* [UI 架构](http://www.pluralsight.com/courses/web-ui-architecture) [watch][$]
+* [网络 UI 架构](https://frontendmasters.com/courses/web-ui-architecture/) [watch][$]
 
 ***
 
-###### ADVICE:
+###### 注释:
 
-[^1] In 2017 learn [Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), and [Redux](http://redux.js.org/). Start with, ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) and ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents).
+这个主题下面并没有太多新近产出的概论性材料或者通用内容。大部分可供学习如何构建前端／单页／Javascript 应用的内容都建立在某个具体工具之上，例如 Angular，Ember，React 或者 Aurelia。
 
 ***
 
-###### SURVEY RESULTS:
+###### 建议:
 
-The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
+[^1] 在  2017 年，请学习[Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), 以及 [Redux](http://redux.js.org/)，并且请从 ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) 和 ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)开始。
+
+***
+
+###### 问卷调查结果:
+
+下图来自 [2016 前端工具调查](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 名开发者参与) 以及 [2016 JS 现状调查](http://stateofjs.com/) (9307 名开发者参与)
 
 ![](../images/q13.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
 
-<cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
+<cite>图片来源: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
 
 ![](../images/frameworks1.png "http://stateofjs.com/")
 
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+<cite>图片来源: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
 
 ![](../images/frameworks2.png "http://stateofjs.com/")
 
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+<cite>图片来源: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
 
 
 
