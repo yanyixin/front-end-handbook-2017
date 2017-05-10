@@ -31,7 +31,7 @@
 
 ###### 建议:
 
-[^1] 在  2017 年，请学习[Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), 以及 [Redux](http://redux.js.org/)，并且请从 ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) 和 ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)开始。
+[^1] 2017 年，请学习[Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), 以及 [Redux](http://redux.js.org/)，并且请从 ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) 和 ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)开始。
 
 ***
 
