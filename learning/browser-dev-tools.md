@@ -8,9 +8,9 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
-While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used tools available.
+虽然大多数浏览器已经装备了web开发工具，但[谷歌开发工具](https://developers.google.com/web/tools/chrome-devtools/)是目前最受关注和广泛使用的工具。
 
-I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
+建议您学习和使用 [谷歌网页开发人员工具](https://developers.google.com/web/tools/chrome-devtools/)，只因为学习网页开发人员工具的最佳资源皆围绕着Chrome DevTools。
 
 ##### 学习谷歌web开发工具:
 
