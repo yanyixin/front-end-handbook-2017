@@ -1,10 +1,10 @@
 # 学习web开发工具
 
-> web开发工具可以让web开发者们对自己的代码进行测试和调试。这些工具并不支持直观的创建web页面，也使得它们与站点集成工具和IDEs工具不一样, 更确切的说，它们是用来调试开发者所面对的web网站或web应用接口的工具。
+> Web开发工具可以让web开发者们对自己的代码进行测试和调试。这些工具并不支持直观的创建web页面，也使得它们与站点集成工具和IDEs工具不一样, 更确切的说，它们是用来调试开发者所面对的web网站或web应用接口的工具。
 >
-> web开发工具一般是浏览器的附加软件或内置在web浏览器中。时下最受欢迎的浏览器如：谷歌浏览器, 火狐浏览器, 欧朋浏览器, IE浏览器, 以及苹果浏览器，它们都为web开发者内置了开发工具，并且在各自的插件下载中心还有很多其他的插件可以找到。
+> Web开发工具一般是浏览器的附加软件或内置在web浏览器中。时下最受欢迎的浏览器如：谷歌浏览器, 火狐浏览器, 欧朋浏览器, IE浏览器, 以及苹果浏览器，它们都为web开发者内置了开发工具，并且在各自的插件下载中心还有很多其他的插件可以找到。
 >
-> Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
+> Web开发工具使得web开发者可以在工作中应用多样化的技术，包括html、css、Dom、JavaScript以及web浏览器提供的其它组件。Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
