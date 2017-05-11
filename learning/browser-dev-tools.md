@@ -26,7 +26,7 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
 * [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
 
-##### News/Newsletters/Podcasts/Tips:
+##### 新闻/时讯/博客/小贴士:
 
 * [Dev Tips](https://umaar.com/dev-tips/)
 
