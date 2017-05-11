@@ -2,7 +2,7 @@
 
 > web开发工具可以让web开发者们对自己的代码进行测试和调试。这些工具并不支持直观的创建web页面，也使得它们与站点集成工具和IDEs工具不一样, 更确切的说，它们是用来调试开发者所面对的web网站或web应用接口的工具。
 >
-> Web development tools come as browser add-ons or built in features in web browsers. The most popular web browsers today like, Google Chrome, Firefox, Opera, Internet Explorer, and Safari have built in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
+> web开发工具一般是浏览器的附加软件或内置在web浏览器中。时下最受欢迎的浏览器如：谷歌浏览器, 火狐浏览器, 欧朋浏览器, IE浏览器, 以及苹果浏览器，它们都为web开发者内置了开发工具，并且在各自的插件下载中心还有很多其他的插件可以找到。
 >
 > Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
 
