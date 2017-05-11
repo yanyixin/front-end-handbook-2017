@@ -4,7 +4,7 @@
 >
 > Web开发工具一般是浏览器的附加软件或内置在web浏览器中。时下最受欢迎的浏览器如：谷歌浏览器, 火狐浏览器, 欧朋浏览器, IE浏览器, 以及苹果浏览器，它们都为web开发者内置了开发工具，并且在各自的插件下载中心还有很多其他的插件可以找到。
 >
-> Web开发工具使得web开发者可以在工作中应用多样化的技术，包括html、css、Dom、JavaScript以及web浏览器提供的其它组件。Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
+> Web开发工具使得web开发者可以在工作中应用多样化的技术，包括html、css、Dom、JavaScript以及web浏览器提供的其它组件。由于web浏览器越来越流行，web浏览器已经为开发人员包含了更多的功能。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
