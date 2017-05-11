@@ -1,13 +1,13 @@
-# Browser Tools
+# 浏览器上的神兵利器
 
-##### JS Browser Coding Utilities:
+##### 浏览器环境下js编码的实用工具:
 
 * [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
 * [Platform.js](https://github.com/bestiejs/platform.js)
 * [URI.js](http://medialize.github.io/URI.js/)
 
-##### General Reference Tools to Determine If X Browser Supports X:
+##### 判断x浏览器是否支持x功能的常见参考工具:
 
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
@@ -20,7 +20,7 @@
 * [Platform Status](https://dev.modern.ie/platform/status/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
-##### Browser Development/Debug Tools:
+##### 浏览器 开发/调试 工具:
 
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
   * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
