@@ -1,6 +1,6 @@
-# Learn Web Developer Tools
+# 学习web开发工具
 
-> Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
+> web开发工具可以让web开发者们对自己的代码进行测试和调试。这些工具并不支持直观的创建web页面，也使得它们与站点集成工具和IDEs工具不一样, 更确切的说，它们是用来调试开发者所面对的web网站或web应用接口的工具。
 >
 > Web development tools come as browser add-ons or built in features in web browsers. The most popular web browsers today like, Google Chrome, Firefox, Opera, Internet Explorer, and Safari have built in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
 >
@@ -12,14 +12,14 @@ While most browsers come equipped with web developer tools, the [Chrome develope
 
 I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
 
-##### Learn Chrome Web Developer Tools:
+##### 学习谷歌web开发工具:
 
 * [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 * [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
 * [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
 
-##### Chrome Web Developer Tools Docs:
+##### 谷歌web开发工具相应文档:
 
 * [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
