@@ -63,54 +63,14 @@
 * [TrifleJS](http://triflejs.org/)
 * [Zombie.js](http://zombie.js.org/)
 
-##### Browser Automation:
+##### 浏览器自动化:
 
-Used for functional testing and monkey testing.
+应用于功能测试和monkey测试（搞怪测试）.
 
 * [CasperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [TestCafe](https://github.com/DevExpress/testcafe)
 
-##### Browser Hacks:
+##### 浏览器上的奇淫巧技:
 
 * [browserhacks.com](http://browserhacks.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
