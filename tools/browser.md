@@ -32,12 +32,12 @@
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
-##### Browser Coding Tools to Determine If X Browser Supports X:
+##### 判断x浏览器是否支持x功能的浏览器编码工具:
 
 * [Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
 
-##### Broad Browser Polyfills/Shims:
+##### 多样的浏览器Polyfills/Shims:
 
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -47,7 +47,7 @@
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
 
-##### Hosted Testing/Automation for Browsers:
+##### 浏览器托管测试、托管自动化:
 
 * [Browserling](https://www.browserling.com/) [free to $]
 * [BrowserStack](https://www.browserstack.com) [$]
