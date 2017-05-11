@@ -55,7 +55,7 @@
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 
-##### Headless Browsers:
+##### 无界面浏览器:
 
 * [PhantomJS](http://phantomjs.org/)
   * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
