@@ -1,8 +1,7 @@
 # 学习网页字体 & 图标
 
-> Web typography refers to the use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each Web browser. There was no mechanism for individual Web pages to control font display until Netscape introduced the `<font>` tag in 1995, which was then standardized in the HTML 3.2 specification. However, the font specified by the tag had to be installed on the user's computer or a fallback font, such as a browser's default sans-serif or monospace font, would be used. The first Cascading Style Sheets specification was published in 1996 and provided the same capabilities.
-> 
-> The CSS2 specification was released in 1998 and attempted to improve the font selection process by adding font matching, synthesis and download. These techniques did not gain much use, and were removed in the CSS2.1 specification. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997.[1] Font downloading was later included in the CSS3 fonts module, and has since been implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in Web typography, as well as the usage of font downloading. - wikipedia
+> 网页排版是指在万维网上字体的使用。在第一次产生 HTML 的时候，字体和样式被每一个网页浏览器的设置霸道地控制。直到 1995 年，网景引入了 `<font>` 标签，对于单独的网页才有机制来控制字体的显示，那时候是 HTML 3.2 规范。然而，标签声明的字体必须得在使用者的电脑上安装或者有个降级字体，例如浏览器的默认     sans-serif 或单空格字体，会被替代使用。1996 年，第一个 CSS 规范发布，也提供了相同的功能。
+> 1998 年，CSS2 规范发布了，并试图通过添加字体匹配、合成和下载来改进字体选择的过程。可是这些技巧并没有很大用处，于是在 CSS2中 移除了。然而，IE 在     1997 年发布的 4.0 版本中增加了对字体下载的支持。[1]后来，在 CSS3 的字体模块中包含了字体下载，从那时起，Safari 3.1，Opera 10 和 Mozilla Firefox 3.5 也实现了这个功能。这增加了网页排版和字体下载用法的趣味性。- 维基百科
 
 ##### 基础知识：
 
