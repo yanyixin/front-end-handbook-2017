@@ -1,34 +1,34 @@
-# Learn Build and Task Automation
+# 学习构建及任务自动化技术
 
-> Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests.
+> 自动化构建是使初始软件构建，以及构建的相关流程变得自动化的过程。构建的相关流程包括：将计算机源码编译成二进制代码，打包二进制代码以及运行自动化测试。
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Build_automation)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Build_automation)</cite>
 
-##### General Learning:
+##### 常规学习:
 
-* [Getting Started with Gulp](https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3eb1e7a868a09b44f90570c56ef5f53b&camp=1789&creative=9325) [read][$]
-* [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) [watch][$]
-* [JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [watch][$]
+* [Gulp 入门](https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3eb1e7a868a09b44f90570c56ef5f53b&camp=1789&creative=9325) [read][$]
+* [Gulp 基础](http://teamtreehouse.com/library/gulp-basics) [watch][$]
+* [JavaScript 自动化构建与 Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [watch][$]
 
-##### References/Docs:
+##### 参考和文档:
 
 * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
 ***
 
-###### ADVICE:
+###### 建议:
 
-Gulp is great. However, you might only need `npm run`. Before turning to additional complexity in your application stack ask yourself if `npm run` can do the job. If you need more, use Gulp. 
+虽然 Gulp 很棒，但你可能只需要 `npm run` 命令。在把额外复杂度转加到你的应用程序技术栈之前，先问自己：仅靠 `npm run` 能否完成任务？如果答案为否，那就使用 Gulp。
 
-Read:
+阅读:
 
-* [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
-* [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-* [Task Automation with npm Run](http://substack.net/task_automation_with_npm_run)
-* [Using npm as a Build System for Your next Project](https://drublic.de/blog/npm-builds)
-* [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
-* [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
-* [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+* [Grunt 滚蛋! 使用 npm 来当构建工具的指南](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+* [如何使用 npm 来当构建工具](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+* [自动化任务与 npm run](http://substack.net/task_automation_with_npm_run)
+* [在你的下一个项目里用 npm 当构建系统](https://drublic.de/blog/npm-builds)
+* [用 npm 管理任务运行](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
+* [为什么我舍弃 Gulp 和 Grunt 转而使用 npm 脚本？](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
+* [为什么使用 npm 脚本？](https://css-tricks.com/why-npm-scripts/)
 
 
 
