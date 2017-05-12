@@ -6,7 +6,7 @@
 
 ##### 基础知识：
 
-* [Beautiful Web Type A showcase of the best typefaces from the Google web fonts directory.](http://hellohappy.org/beautiful-web-type/) [阅读]
+* [漂亮的网页类型：来自谷歌网页字体的完美字体样式](http://hellohappy.org/beautiful-web-type/) [阅读]
 * [学习网页字体](http://zoerooney.com/learn-web-fonts/) [阅读]
 * [通过 @font-face 来认识网页字体](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [阅读]
 * [响应式排版](https://frontendmasters.com/courses/responsive-typography/) [观看][$]
