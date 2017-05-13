@@ -1,13 +1,13 @@
-# Browser Tools
+# 浏览器上的神兵利器
 
-##### JS Browser Coding Utilities:
+##### 浏览器环境下js编码的实用工具:
 
 * [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
 * [Platform.js](https://github.com/bestiejs/platform.js)
 * [URI.js](http://medialize.github.io/URI.js/)
 
-##### General Reference Tools to Determine If X Browser Supports X:
+##### 判断x浏览器是否支持x功能的常见参考工具:
 
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
@@ -20,7 +20,7 @@
 * [Platform Status](https://dev.modern.ie/platform/status/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
-##### Browser Development/Debug Tools:
+##### 浏览器 开发/调试 工具:
 
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
   * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
@@ -32,12 +32,12 @@
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
-##### Browser Coding Tools to Determine If X Browser Supports X:
+##### 判断x浏览器是否支持x功能的浏览器编码工具:
 
 * [Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
 
-##### Broad Browser Polyfills/Shims:
+##### 多样的浏览器Polyfills/Shims:
 
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -47,7 +47,7 @@
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
 
-##### Hosted Testing/Automation for Browsers:
+##### 浏览器托管测试、托管自动化:
 
 * [Browserling](https://www.browserling.com/) [free to $]
 * [BrowserStack](https://www.browserstack.com) [$]
@@ -55,7 +55,7 @@
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 
-##### Headless Browsers:
+##### 无界面浏览器:
 
 * [PhantomJS](http://phantomjs.org/)
   * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
@@ -63,54 +63,14 @@
 * [TrifleJS](http://triflejs.org/)
 * [Zombie.js](http://zombie.js.org/)
 
-##### Browser Automation:
+##### 浏览器自动化:
 
-Used for functional testing and monkey testing.
+应用于功能测试和monkey测试（搞怪测试）.
 
 * [CasperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [TestCafe](https://github.com/DevExpress/testcafe)
 
-##### Browser Hacks:
+##### 浏览器上的奇淫巧技:
 
 * [browserhacks.com](http://browserhacks.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
