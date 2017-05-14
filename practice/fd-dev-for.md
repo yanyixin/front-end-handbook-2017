@@ -1,6 +1,6 @@
 # 前端开发者为 ... 而开发
 
-前端开发者开发 HTML、CSS 和 JS，它们通常在[web 平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(比如 web 浏览器)上运行，web 平台基于下列某种操作系统（或称 OS）：
+前端开发者所编写的 HTML、CSS 和 JS 代码，通常运行在基于下列某种操作系统（或称 OS）的 [web 平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(比如 web 浏览器)上运行：
 
 * Android
 * Chromium
