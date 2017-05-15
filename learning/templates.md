@@ -13,10 +13,10 @@
 
 ###### 注意：
 
-JavaScript 2015 (即 ES6) 有一个原生的模板机制叫做[『模板字符串』](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。另外，最近跟模板有关的热词还有 [JSX](https://facebook.github.io/jsx/)、[『模板元素』](http://aurelia.io/hub.html#/doc/article/aurelia/templating/latest/templating-basics)和 [HTML strings](https://angular.io/docs/ts/latest/guide/template-syntax.html#)。
+JavaScript 2015 (即 ES6) 有一个原生的模板机制叫做["模板字符串"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。另外，最近跟模板有关的热词还有 [JSX](https://facebook.github.io/jsx/)、["模板元素"](http://aurelia.io/hub.html#/doc/article/aurelia/templating/latest/templating-basics)和 [HTML strings](https://angular.io/docs/ts/latest/guide/template-syntax.html#)。
 
 ***
 
 ###### 建议：
 
-果您对模板还不熟悉，首先搞定 JavaScript 的[『模板字符串』](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。 如果项目与 React 相关，您可以使用JSX。 再往后您可以学习 [nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
+果您对模板还不熟悉，首先搞定 JavaScript 的["模板字符串"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。 如果项目与 React 相关，您可以使用JSX。 再往后您可以学习 [nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
