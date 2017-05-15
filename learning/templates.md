@@ -1,6 +1,6 @@
 # 学习 JS 模板
 
-典型的 JavaScript 模板一般在 MV* 设计模式中，用于把 View 层（即 UI）从逻辑和数据层中分离出来。
+典型的 JavaScript 模板一般在 MV* 设计模式中，用于把 View 层（即 UI）从逻辑和数据层（比如，数据或 JSON）中分离出来。
 
 * [ES6 Template Literals, the Handlebars killer?](https://www.keithcirkel.co.uk/es6-template-literals/) [阅读]
 * [Getting Started with nunjucks](http://mozilla.github.io/nunjucks/getting-started.html) [阅读]
