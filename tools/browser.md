@@ -9,27 +9,27 @@
 
 ##### 判断x浏览器是否支持x功能的常见参考工具:
 
-* [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
+* [查看浏览器对image标签各属性的支持情况](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
-* [Firefox Platform Status - Implementation & standardization roadmap for web platform features](https://platform-status.mozilla.org/)
+* [Firefox平台状态 -  Web平台功能的实施和标准化路线图](https://platform-status.mozilla.org/)
 * [HTML5 Please](http://html5please.com/)
-* [HTML5 Test](https://html5test.com/)
+* [HTML5 测试](https://html5test.com/)
 * [iwanttouse.com](http://www.iwanttouse.com/)
 * [jscc.info](http://jscc.info/)
-* [Platform Status](https://dev.modern.ie/platform/status/)
+* [平台状态](https://dev.modern.ie/platform/status/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
 ##### 浏览器 开发/调试 工具:
 
-* [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
-  * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-  * [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
-  * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-  * [Settings](https://developer.chrome.com/devtools/docs/settings)
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
-* [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
-* [Safari Web Inspector](https://developer.apple.com/safari/tools/)
+* [谷歌开发工具 (别名 DevTools)](https://developers.google.com/web/tools/?hl=en)
+  * [各DevTools文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  * [命令行API参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+  * [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+  * [设置](https://developer.chrome.com/devtools/docs/settings)
+* [火狐开发工具](https://developer.mozilla.org/en-US/docs/Tools)
+* [IE开发工具 (别名 F12 工具)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
+* [Safariweb检查器](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
 ##### 判断x浏览器是否支持x功能的浏览器编码工具:
