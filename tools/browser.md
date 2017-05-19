@@ -23,10 +23,10 @@
 ##### 浏览器 开发/调试 工具:
 
 * [谷歌开发工具 (别名 DevTools)](https://developers.google.com/web/tools/?hl=en)
-  * [各DevTools文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  * [各DevTools文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
   * [命令行API参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
-  * [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-  * [设置](https://developer.chrome.com/devtools/docs/settings)
+  * [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts) 
+  * [设置](https://developer.chrome.com/devtools/docs/settings) 
 * [火狐开发工具](https://developer.mozilla.org/en-US/docs/Tools)
 * [IE开发工具 (别名 F12 工具)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
 * [Safariweb检查器](https://developer.apple.com/safari/tools/)
