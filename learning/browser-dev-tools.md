@@ -14,10 +14,10 @@
 
 ##### 学习谷歌web开发工具:
 
-* [谷歌开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
+* [谷歌开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [阅读][$]
 * [探索学习Chrome DevTools](http://discover-devtools.codeschool.com/)
-* [掌握谷歌开发者工具](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
-* [使用Chrome开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
+* [掌握谷歌开发者工具](https://frontendmasters.com/courses/chrome-dev-tools/) [阅读][$]
+* [使用Chrome开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [阅读][$]
 
 ##### 谷歌web开发工具相应文档:
 
