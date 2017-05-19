@@ -1,6 +1,6 @@
 # 学习 JavaScript
 
-> JavaScript ，一种高级编程语言，通过解释执行，是一门动态类型，面向对象（基于原型）的直译语言。它已经由 ECMA（欧洲电脑制造商协会）通过 ECMAScript 实现语言的标准化。它被世界上的绝大多数网站所使用，也被世界主流浏览器（Chrome、IE、FireFox、Safari、Opera）支持。JavaScript 是一门基于原型、函数先行的语言，是一门多范式的语言，它支持面向对象编程，命令式编程，以及函数式编程。它提供语法来操控文本，数组，日期以及正则表达式等，不支持 I/O，比如网络，存储和图形等，但这些都可以由它的宿主环境提供支持。
+> JavaScript是一种高级的、动态的、无类型的、解释型的的编程语言。它是万维网内容制作的，除了HTML和CSS以外的三大基本技术之一；大多数网站都在使用它，并且所有现代的Web浏览器无插件的支持。JavaScript是基于原型并具备极好的功能，这使它成为一种多范式的语言，支持面向对象、指令式和函数式编程风格。它提供文字、数组、日期和正则表达式的操作API，但不支持任何I/O相关的，例如网络、存储或图形设备，这取决于它所嵌入的主机环境。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
@@ -22,7 +22,7 @@
 * [JavaScript 中 'this' 的大致解释](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [阅读]
 * [你不知道的 JS: this 和 对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [阅读]
 
-##### 精通:
+##### 配置:
 
 * [架设 ES6](https://leanpub.com/setting-up-es6) [阅读]
 * [每个人都能学 ES6](https://es6.io/) [观看][$]
@@ -60,14 +60,14 @@
 * [JavaScript 术语表](https://www.codecademy.com/articles/glossary-javascript)
 * [JavaScript 简明辞书](http://jargon.js.org/)
 
-##### 标准:
+##### 标准／规范:
 
 * [ECMAScript® 2015 语言规范](http://www.ecma-international.org/ecma-262/6.0/index.html)
 * [ECMAScript® 2016 语言规范](https://www.ecma-international.org/ecma-262/7.0/)
 * [ECMAScript® 2017 语言规范](https://tc39.github.io/ecma262/)
 * [ECMA262的状态、进程和文档](https://github.com/tc39/ecma262)
 
-##### 规范:
+##### 样式:
 
 * [Airbnb JS样式指南](http://airbnb.io/javascript/)
 * [JavaScript 标准样式](http://standardjs.com/rules.html)
