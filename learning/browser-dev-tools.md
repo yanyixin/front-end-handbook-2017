@@ -14,17 +14,17 @@
 
 ##### 学习谷歌web开发工具:
 
-* [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
-* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
-* [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
-* [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
+* [谷歌开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
+* [探索学习Chrome DevTools](http://discover-devtools.codeschool.com/)
+* [掌握谷歌开发者工具](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
+* [使用Chrome开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
 
 ##### 谷歌web开发工具相应文档:
 
-* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-* [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-* [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-* [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
+* [命令行API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+* [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [各DevTools文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [自定义DevTools](https://developer.chrome.com/devtools/docs/settings)
 
 ##### 新闻/时讯/播客/小贴士:
 
