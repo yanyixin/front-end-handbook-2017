@@ -4,7 +4,7 @@
 
 * [前端[JS]开发者的基准线：2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [阅读]
 * [成为一名前端 Web 开发者](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) [观看][$]
-* [成为一名 web 开发者](http://www.yellowshoe.com.au/standards) [阅读]
+* [成为一名 web 开发者的基本标准](http://www.yellowshoe.com.au/standards) [阅读]
 * [前端 Web 开发基础](https://www.udemy.com/foundations-of-front-end-development/) [观看][$]
 * [freeCodeCamp](http://freecodecamp.com/) [互动]
 * [前端课程](https://gist.github.com/stevekinney/03027e71aac341af14a2) [阅读]
