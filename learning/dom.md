@@ -1,6 +1,6 @@
 # 学习 DOM、BOM 和 jQuery
 
-> **DOM** - 文档对象模型 (DOM) 是一个跨平台的、独立于语言的约定，能以对象的形式对HTML、XHTML 和 XML 文档进行展示和交互。每一个文档的节点被放到一个树形结构中，这棵树被称为 DOM 树。
+> **DOM** - 文档对象模型 (DOM) 是一个跨平台的、独立于语言的约定，能以对象的形式对 HTML、XHTML 和 XML 文档进行展示和交互。每一个文档的节点被放到一个树形结构中，这棵树被称为 DOM 树。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Document_Object_Model)</cite>
  
@@ -8,7 +8,7 @@
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Browser_Object_Model)</cite>
  
-> **jQuery** - jQuery 是一个跨平台的 JavaScript 库，为了简化客户端 HTML 中的脚本编写而诞生。jQuery 如今是最流行使用的 JavaScript 库，排名前1000万的高访问量网站中，有65%都在使用它。
+> **jQuery** - jQuery 是一个跨平台的 JavaScript 库，为了简化客户端 HTML 中的脚本编写而诞生。jQuery 如今是最流行使用的 JavaScript 库，排名前 1000 万的高访问量网站中，有 65% 都在使用它。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JQuery)</cite>
 
