@@ -15,7 +15,7 @@
 * [Material ui](http://material-ui.com/)
 * [Semantic-UI-React](http://react.semantic-ui.com/introduction)
 
-##### 通过 Web 平台 进行 native 开发的桌面／笔电／小笔电应用的 (例如，和 NW.js、Electron 一起使用):
+##### 通过 Web 平台进行 native 开发的桌面／笔电／小笔电应用的 (例如，和 NW.js、Electron 一起使用):
 
 * [Photon](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
