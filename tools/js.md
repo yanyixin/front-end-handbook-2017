@@ -65,7 +65,7 @@
 * [jsfmt](http://rdio.github.io/jsfmt/)
 * [prettier](https://github.com/jlongster/prettier)
 
-##### 渲染测试：
+##### 性能测试：
 
 * [benchmark.js](http://benchmarkjs.com/)
 * [jsperf.co](https://jsperf.co/)
@@ -104,7 +104,7 @@
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
 * [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
-##### 本月 GitHub 中 JS 仓库的趋势：
+##### 本月 GitHub 上的热门 JS 仓库：
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
