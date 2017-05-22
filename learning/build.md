@@ -24,9 +24,9 @@
 
 * [Grunt 滚蛋! 使用 npm 来当构建工具的指南](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
 * [如何使用 npm 来当构建工具](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-* [自动化任务与 npm run](http://substack.net/task_automation_with_npm_run)
+* [使用 npm run 自动化任务](http://substack.net/task_automation_with_npm_run)
 * [在你的下一个项目里用 npm 当构建系统](https://drublic.de/blog/npm-builds)
-* [用 npm 管理任务运行](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [观看][$]
+* [用 npm 作为任务运行启动器](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [观看][收费]
 * [为什么我舍弃 Gulp 和 Grunt 转而使用 npm 脚本？](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
 * [为什么使用 npm 脚本？](https://css-tricks.com/why-npm-scripts/)
 
