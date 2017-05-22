@@ -43,7 +43,7 @@
 * [JavaScript.com](https://www.javascript.com/news)
 * [React 动态](https://react.statuscode.com/)
 
-##### 图形和动画 资讯、新闻和播客：
+##### 图形和动画资讯、新闻和播客：
 
 * [运动及意义](http://motionandmeaning.io/)
 * [响应式图片社区小组资讯](https://responsiveimages.org/#newsletter)
