@@ -105,7 +105,7 @@
 
 ##### JavaScript 对象表示法 (JSON)
 
-> Javascript 对象表示法是在异步的浏览器／服务器交流方式（AJAJ）中所使用的主流的数据格式，并且基本上已经取代 XML（被 AJAX 所使用）。虽然 JSON 是从 Javascript 中衍生出的数据格式，但它实际上是独立于语言的。在许多的编程语言中都有现成的，用于解析和生成 JSON 数据的代码。JSON 数据格式最开始由 Douglas Crockford 所规范，现在被两个互相竞争的标准所描述：RFC 7159 以及 ECMA-404。ECMA 标准更轻量，仅仅规定了可以使用的语法规则；而 RFC 则基于句法上的以及安全上的考量提供了更细致的规范。JSON 官方的网络媒体类型是 application/json。JSON 文件名的后缀是 .json。
+> Javascript 对象表示法是在异步的浏览器／服务器交流方式（AJAJ）中所使用的主流的数据格式，并且基本上已经取代 XML（被 AJAX 所使用）。虽然 JSON 是从 Javascript 中衍生出的数据格式，但它实际上是独立于语言的。在许多的编程语言中都有现成的，用于解析和生成 JSON 数据的代码。JSON 数据格式的规范最开始是由 Douglas Crockford 制定的，现在被两个互相竞争的标准所描述：RFC 7159 以及 ECMA-404。ECMA 标准更轻量，仅仅规定了可以使用的语法规则；而 RFC 则基于句法上的以及安全上的考量提供了更细致的规范。JSON 官方的网络媒体类型是 application/json。JSON 文件名的后缀是 .json。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JSON)</cite>
 
