@@ -4,7 +4,7 @@
 > 
 > Node.js 采用基于事件驱动的架构和非阻塞的 I/O API 设计，以优化即时 Web 应用的吞吐量和可扩展性。Node.js 使用 Google 的 V8 Javascript 引擎执行代码，并且绝大部分的基础模块是用 Javascript 写的。 Node.js 包含了一个内建的库， 即使没有传统的服务器软件如：Apache , Nginx 或者 IIS 您也可以很方便地使用 Node.js 创建一个 Web 服务器。
 
-><cite>&#8212; [喂鸡百磕](https://en.wikipedia.org/wiki/Node.js)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Node.js)</cite>
 
 ##### 相关资源:
 
