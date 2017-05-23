@@ -4,9 +4,9 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Version_control)</cite>
 
-当下最流行的版本控制方案是 [Git](https://git-scm.com/)。 学习它！
+当下最流行的版本管理方案是 [Git](https://git-scm.com/)。 学习它！
 
-##### 入门学习：
+##### 综合学习：
 
 * [codeschool.com](https://try.github.io/levels/1/challenges/1) [interact]
 * [Getting Git Right](https://www.atlassian.com/git/) [read]

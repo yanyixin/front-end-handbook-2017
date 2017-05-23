@@ -1,32 +1,31 @@
-# Front-End on a Team
+# 团队里的前端
 
-A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running from web technologies.
+通常，前端开发者是团队中的唯一角色，他们设计并开发 web 站点、web 应用或基于 web 技术的原生应用。
 
-A bare bones development team for building ***professional*** web sites or software application for the web platform will typically, minimally, contain the following roles.
+为了构建**专业**网站或 web 平台软件应用，一个基本的开发团队通常至少包含以下岗位。
 
-* Visual Designer (i.e., fonts, colors, spacing, emotion, visuals concepts & themes)
-* UI/Interaction Designer/Information Architect (i.e., wireframes, specifying all user interactions and UI functionality, structuring information)
-* Front-End Developer (i.e., writes code that runs in client/on device)
-* Back-End Developer (i.e., writes code that runs on server)
+* 视觉设计师（也就是字体、颜色、间距、情调、视觉概念和主题）
+* UI／交互设计师／信息架构师（也就是线框、所有用户交互和 UI 功能、的指定，信息的架构）
+* 前端开发者（也就是编写运行在客户端／设备上的代码）
+* 后端开发者（也就是编写运行在服务端的代码）
 
-The roles are ordered according to overlapping skills. A front-end developer will typically have a good handle on UI/Interaction design as well as back-end development. It is not uncommon for team members to fill more than one role by taking on the responsibilities of an over-lapping role.
+这些岗位参照技能重叠来排序。通常前端开发者和后端开发者一样能较好地处理 UI／交互设计。团队成员通过接手重叠部分的职责，来担任多于单人的职责，这并不是稀罕的事。
 
-It is assumed that the team mentioned above is being directed by a project lead or some kind of product owner (i.e., stakeholder, project manager, project lead, etc.)
+假设上述团队是由项目经理或一些项目委托人（也就是参与人、项目管理者、项目经理等等）来指挥。
 
-A larger web team might include the following roles not shown above:
+大型 web 团队可能包含下列岗位，这些岗位尚未提及：
 
-* SEO Strategists
-* DevOps Engineers
-* API Developers
-* Database Administrators
-* QA Engineers / Testers
+* SEO 策略师
+* 运维工程师
+* API 开发者
+* 数据库管理
+* QA 工程师／测试者
 
 ***
 
-###### NOTES:
+###### 注意:
 
-A small trend seems to be occurring where a, "full-stack developer" takes on the responsibilities of both a front-end and back-end developer.
-
+一个小趋势似乎正在发生：“全栈开发者” 同时担任前端和后端开发者的职责。
 
 
 

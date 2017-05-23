@@ -1,6 +1,6 @@
 # 学习测试
 
-> **单元测试** - 编写程序时，单元测试是一种测试方法。它使用特定的数据，特定的使用，特定的操作，以检验独立的一段代码，一个或多个模块是否能正常工作。你可以将『单元』看做是应用程序最小可测试的单位。
+> **单元测试** - 编写程序时，单元测试是一种测试方法。它使用特定的数据，特定的手段，特定的操作，以检验独立的一段代码，一个或多个模块是否能正常工作。你可以将『单元』看做是应用程序最小可测试的单位。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)</cite>
 >
@@ -8,11 +8,11 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)</cite>
 >
-> **集成测试** - 集成测试（有时被称为集合和测试，简称 I&T ）是软件测试的一种过程。在这个过程中软件的独立模块被整合后做为一个组一起测试。它发生在单元测试后，验证测试前。集成测试把经过单元测试的模块聚合成一个整体进行测试，并把做为系统测试中系统集成是否成功的结果。
+> **集成测试** - 集成测试（有时被称为集合和测试，简称 I&T ）是软件测试的一种过程。在这个过程中软件的独立模块被整合后做为一个组一起测试。它发生在单元测试后，确认测试前。集成测试把经过单元测试的模块聚合成一个整体进行测试，并做为系统测试中系统集成是否成功的结果。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)</cite>
 
-##### 入门学习：
+##### 综合学习：
 
 * [Front-End First: Testing and Prototyping JavaScript Apps](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) [watch][$]
 * [Let's Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) [watch][$]

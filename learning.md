@@ -1,5 +1,5 @@
-# Part II: Learning
+# 第二部分：学习
 
-Part two identifies self-directed (i.e., at your own pace when you want) and directed (i.e., formal class room specific times and dates) resources for learning to become a front-end developer.
+第二部分给出了成为一名前端开发者需要学习的资源，分自学（指随时按自己的节奏来学习）类和教学（指规定次数和日期的正式课堂学习）类两种。
 
-Note that just because a learning resource is listed, or a category of learning is documented, I am not suggesting that a front-end developer learn everything. That would be absurd. Choose your own slice of expertise within the profession. I'm providing the possibilities of what could be mastered in the field.
+需要注意的是，不要因为某个学习资源被列出或某个学习类目包含在文档中，就代表前端开发人员要将它们全部掌握，我不建议那么做。那是没有意义的。在其中挑选你自己的那部分专业技能。我提供的只是在这个领域可能需要被掌握的一些东西。
