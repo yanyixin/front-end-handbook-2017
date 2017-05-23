@@ -1,4 +1,4 @@
-# Animation Tools
+# 动画工具
 
 * [Animate](https://github.com/daneden/animate.css)
 * [Anime](https://github.com/juliangarnier/anime)
@@ -13,53 +13,6 @@
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
-##### Animation References:
+##### 动画参考资料:
 
 * [canianimate.com](http://canianimate.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-

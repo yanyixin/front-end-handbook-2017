@@ -1,13 +1,13 @@
-# Templating/Data Binding Tools
+# 模版／数据绑定工具
 
-##### Just Templating:
+##### 模版:
 
 * [doT.js](http://olado.github.io/doT/)
 * [Handlebars](http://handlebarsjs.com/)
   * [htmlbars](https://github.com/tildeio/htmlbars)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 
-##### Templating and Reactive Data Binding:
+##### 模版和动态数据绑定:
 
 * [Deku](https://github.com/anthonyshort/deku)
 * [jquerymy.js](http://jquerymy.com/)
@@ -17,50 +17,7 @@
 * [Rivets.js](http://rivetsjs.com/)
 * [vue.js](http://vuejs.org/)
 
-##### Templating to Virtual DOM:
+##### 用于虚拟 DOM 的模版:
 
 * [JSX](https://facebook.github.io/jsx/)
 * [t7](http://t7js.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

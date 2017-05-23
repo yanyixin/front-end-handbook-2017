@@ -1,36 +1,7 @@
-# Learn Static Site Generators
+# 学习静态网页生成器
 
-Static site generators, typically written using server side code (i.e., ruby, php, python, nodeJS, etc.), produce static HTML files from static text/data + templates that are intended to be sent from a server to the client statically without a dynamic nature.
+静态网站生成器通常用服务端代码来编写（例如，ruby，PHP，python，nodeJS，等），用静态文本／数据 + 模版，生成从服务器发送到客户端的静态 HTML 文件。
 
-##### General Learning:
+##### 概论:
 
-* [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp) [read]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [静态网站生成器](http://www.oreilly.com/web-platform/free/static-site-generators.csp) [文章]
