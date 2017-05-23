@@ -4,9 +4,9 @@
 
 <cite>图片来源：<a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
 
-假设各个方向的前端开发者已经掌握高级HTML，CSS，DOM，JavaScript，HTTP/URL，和浏览器技能的基础。
+假设各个方向的前端开发者已经掌握高级 HTML、CSS、DOM、JavaScript、HTTP/URL和浏览器技能的基础。
 
-除了HTML，CSS，DOM，JavaScript，HTTP/URL，和浏览器开发的专业知识, 一个前端开发者还需要掌握以下一个或多个技能：
+除了 HTML、CSS、DOM、JavaScript、HTTP/URL、和浏览器开发的专业知识，一个前端开发者还需要掌握以下一个或多个技能：
 
 * 内容管理系统（亦称 CMS）
 * Node.js
@@ -22,19 +22,19 @@
 * 电子商务系统
 * 门户系统
 * 线框绘制
-* CSS布局/Grids
-* DOM操作 （比如 jQuery）
-* 移动Web性能
+* CSS 布局/ Grids
+* DOM 操作（比如 jQuery）
+* 移动 Web 性能
 * 负载测试
 * 性能测试
 * 渐进增强/优雅降级
-* 版本控制 （比如 GIT）
+* 版本控制（比如 GIT）
 * MVC / MVVM / MV* 
 * 函数式编程
-* 数据格式 （比如 JSON，XML）
+* 数据格式（比如 JSON，XML）
 * 数据API（比如 Restful API）
-* Web字体嵌入
-* 可缩放矢量图形 （亦称 SVG）
+* Web 字体嵌入
+* 可缩放矢量图形（亦称 SVG）
 * 正则表达式
 * 内容策略
 * Microdata / Microformats
@@ -45,10 +45,10 @@
 * 模块
 * 依赖管理
 * 包管理
-* JavaScript动画
-* CSS动画
+* JavaScript 动画
+* CSS 动画
 * 图表/图形
-* UI控件
+* UI 控件
 * 代码质量测试
 * 代码覆盖率测试
 * 代码复杂性分析
@@ -57,9 +57,9 @@
 * 模板策略
 * 模板引擎
 * 单页应用
-* XHR请求（亦称 AJAX）
-* Web/浏览器 安全
-* HTML语义
+* XHR 请求（亦称 AJAX）
+* Web /浏览器 安全
+* HTML 语义
 * 浏览器开发工具
 
 
