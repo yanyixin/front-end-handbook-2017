@@ -8,7 +8,7 @@
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
 
-就像建造房子一样，可以认为 HTML 的框架和 CSS 就像绘画和装饰。
+就像建造房子一样，可以认为 HTML 用来搭建框架， CSS 用来绘画和装饰。
 
 ##### 综合学习：
 
@@ -20,7 +20,7 @@
 * [HTML 和 CSS：设计和构建网站](https://www.amazon.com/gp/product/1118008189/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b1c45ab715f267f7dfed8c981c14eceb&camp=1789&creative=9325) [阅读][收费]
 * [HTML 文档流](http://www.pluralsight.com/courses/html-document-flow-1837) [视频][收费]
 * [HTML 精通: 语义、规范和样式](https://www.amazon.com/gp/product/1590597656/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a5c4eb997239ea9e57a86456cef7763c&camp=1789&creative=9325) [阅读][收费]
-* [计算机是困难的](https://internetingishard.com/) [阅读]
+* [互联网很难](https://internetingishard.com/) [阅读]
 * [HTML/CSS 简介：制作网站](https://www.khanacademy.org/computing/computer-programming/html-css) [视频]
 * [学习编写 HTML 和 CSS](http://learn.shayhowe.com/html-css/) [阅读]
 * [学习 CSS 布局](http://learnlayout.com/) [阅读]
