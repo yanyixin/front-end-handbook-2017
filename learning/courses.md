@@ -1,17 +1,17 @@
-# Directed Learning
+# 培训学习
 
-The table below contains instructor led, paid, front-end courses, programs, schools, and bootcamps.
+下面的表格包含了有讲师指导，付费的前端课程，项目、学校和训练营。
 
-If you can't afford a directed education, a self directed education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual.
+如果你觉得有指导的学习比较昂贵，你也可以使用屏幕录像，书籍，文章等方式来进行自我驱动型的前端开发学习。
 
 <table>
     <thead>
         <tr>
-            <th data-field="company">company</th>
-            <th data-field="model">course</th>
-            <th data-field="year">price</th>
-            <th data-field="onsite">on site</th>
-            <th data-field="remote">remote</th>
+            <th data-field="company">机构</th>
+            <th data-field="model">课程</th>
+            <th data-field="year">价格</th>
+            <th data-field="onsite">现场教学</th>
+            <th data-field="remote">是否支持远程</th>
         </tr>
     </thead>
     <tbody>
@@ -27,7 +27,7 @@ If you can't afford a directed education, a self directed education using screen
             <td><a target="_blank" href="https://www.bloc.io/frontend-development-bootcamp">Become a Frontend Developer</a></td>
             <td>4,999</td>
             <td></td>
-            <td>yes</td>
+            <td>是</td>
         </tr>
         <tr>
             <td>DecodeMTL</td>
@@ -47,7 +47,7 @@ If you can't afford a directed education, a self directed education using screen
             <td>General Assembly</td>
             <td><a target="_blank" href="https://generalassemb.ly/education/front-end-web-development">Frontend Web Development</a></td>
             <td>3,500</td>
-            <td>multiple locations</td>
+            <td>多地</td>
             <td></td>
         </tr>
         <tr>
@@ -61,7 +61,7 @@ If you can't afford a directed education, a self directed education using screen
             <td>Iron Yard</td>
             <td><a target="_blank" href="https://www.theironyard.com/courses.html#front-end-engineering">Front End Engineering</a></td>
             <td>12,000</td>
-            <td>multiple locations</td>
+            <td>多地</td>
             <td></td>
         </tr>
         <tr>
@@ -74,23 +74,23 @@ If you can't afford a directed education, a self directed education using screen
         <tr>
             <td>Thinkful</td>
             <td><a target="_blank" href="http://www.thinkful.com/courses/learn-web-development-online">Frontend Web Development</a></td>
-            <td>300 per month</td>
+            <td>300 每月</td>
             <td></td>
-            <td>yes</td>
+            <td>是</td>
         </tr>
         <tr>
             <td>Turing School of Software & Design</td>
             <td><a target="_blank" href="https://www.turing.io/programs/front-end-engineering">Front-End Engineering</a></td>
             <td>20,000</td>
             <td></td>
-            <td>yes</td>
+            <td>是</td>
         </tr>
         <tr>
             <td>Udacity</td>
             <td><a target="_blank" href="https://www.udacity.com/course/nd001">Front-End Web Developer Nanodegree</a></td>
-            <td>200 monthly</td>
-            <td>multiple locations</td>
-            <td>yes</td>
+            <td>200 每月</td>
+            <td>多地</td>
+            <td>是</td>
         </tr>
     </tbody>
 </table>

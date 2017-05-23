@@ -1,3 +1,3 @@
-# Directed Learning
+# 导向学习
 
-This section focuses on directed learning via schools, courses, programs and bootcamps.
+这个部分是关于通过学校，课程，项目以及训练营来进行导向学习。

@@ -1,4 +1,4 @@
-# Front-End Data Storage Tools (i.e. Data storage solution in the client)
+# 前端数据存储工具 (例如. 客户端的数据存储方案)
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)
@@ -10,53 +10,3 @@
 * [Pouchdb](http://pouchdb.com/)
 * [NeDB](https://github.com/louischatriot/nedb)
 * [YDN-DB](http://dev.yathit.com/ydn-db/index.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
