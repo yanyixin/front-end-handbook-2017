@@ -1,13 +1,13 @@
-# Learn Headless Browsers
+# 学习无头浏览器
 
-> A headless browser is a web browser without a graphical user interface.
+> 无头浏览器是没有用户图形界面的浏览器。
 >
->Headless browsers provide automated control of a web page in an environment similar to popular web browsers, but are executed via a command line interface or using network communication. They are particularly useful for testing web pages as they are able to render and understand HTML the same way a browser would, including styling elements such as page layout, color, font selection and execution of JavaScript and AJAX which are usually not available when using other testing methods. Google stated in 2009 that using a headless browser could help their search engine index content from websites that use AJAX.
+> 无头浏览器提供了对于网页的自动控制，这种控制所依赖的环境和现代 web 浏览器类似，然而却是通过命令行界面或者网络通讯实施。它们是良好的网页测试工具，提供了和普通 web 浏览器同样的功能，包括渲染 HTML、页面布局、颜色以及字体，同时也提供了 JavaScript 和 AJAX 的加载和执行，这是其它测试工具通常做不到的。Google 在 2009 年的时候声称，使用无头浏览器可以帮助他们的搜索引擎在网站中定位那些使用 AJAX 技术加载的内容。
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Headless_browser)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Headless_browser)</cite>
 
-* [Automating the Web Using PhantomJS and CasperJS](https://app.pluralsight.com/library/courses/automating-web-phantom-js-casper-js/table-of-contents) [watch][$]
-* [Getting Started with PhantomJS](https://www.amazon.com/Getting-Started-PhantomJS-Aries-Beltran/dp/1782164227/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b3838a0feeb0fad33069af34e9a5aa1e&camp=1789&creative=9325) [read][$]
-* [PhantomJS Cookbook](https://www.amazon.com/PhantomJS-Cookbook-Rob-Friesel/dp/178398192X?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=fd9f7dddf81520cd186b72918ab5df59&camp=1789&creative=9325) [read][$]
-* [PhantomJS for Web Automation](https://www.youtube.com/watch?v=OqEcn_6GBDI) [watch]
-* [Rapid PhantomJS](https://www.packtpub.com/web-development/rapid-phantomjs-video) [watch][$]
+* [使用 PhantomJS 和 CasperJS 使网络自动化](https://app.pluralsight.com/library/courses/automating-web-phantom-js-casper-js/table-of-contents) [视频][$]
+* [PhantomJS 入门](https://www.amazon.com/Getting-Started-PhantomJS-Aries-Beltran/dp/1782164227/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b3838a0feeb0fad33069af34e9a5aa1e&camp=1789&creative=9325) [文章][$]
+* [PhantomJS 教材](https://www.amazon.com/PhantomJS-Cookbook-Rob-Friesel/dp/178398192X?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=fd9f7dddf81520cd186b72918ab5df59&camp=1789&creative=9325) [文章][$]
+* [PhantomJS 网络自动化](https://www.youtube.com/watch?v=OqEcn_6GBDI) [视频]
+* [快捷的 PhantomJS](https://www.packtpub.com/web-development/rapid-phantomjs-video) [视频][$]
