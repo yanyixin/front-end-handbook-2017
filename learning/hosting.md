@@ -1,6 +1,6 @@
 # 学习网页寄存（通称虚拟主机）
 
-> 网页寄存服务是指一类 Internet 寄存服务，允许组织和个人将他们的站点连接至互联网以供他人访问。网页寄存商在他们的数据中心提供可供用户购买或租用的主机，同时将这些主机接入互联网。网页寄存商也可以为数据中心中放置的其他公司服务器提供接入互联网的服务，这种服务称作主机托管（colocation），亦称 Housing in Latin America or France.
+> 网页寄存服务是指一类 Internet 寄存服务，该服务允许组织和个人将他们的站点连接至互联网以供他人访问。网页寄存商在他们的数据中心提供可供用户购买或租用的主机，同时将这些主机接入互联网。网页寄存商也可以为数据中心中放置的其他公司服务器提供接入互联网的服务，这种服务称作主机托管（colocation），亦称 Housing in Latin America or France.
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Web_hosting_service)</cite>
 
