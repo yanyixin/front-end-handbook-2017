@@ -1,13 +1,13 @@
 # HTML 工具
 
-##### HTML 模板/脚手架/入门套件：
+##### HTML 模板/样板/入门套件：
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
-* [电子邮件脚手架](https://github.com/seanpowell/Email-Boilerplate)
-* [HTML5 脚手架](https://html5boilerplate.com/)
+* [电子邮件样板](https://github.com/seanpowell/Email-Boilerplate)
+* [HTML5 样板](https://html5boilerplate.com/)
 * [HTML5 骨架](http://html5bones.com/)
-* [移动端脚手架](https://html5boilerplate.com/mobile/)
-* [Web 入门套件脚手架及多设备开发工具](https://developers.google.com/web/tools/starter-kit)
+* [移动端样板](https://html5boilerplate.com/mobile/)
+* [Web 入门套件样板及多设备开发工具](https://developers.google.com/web/tools/starter-kit)
 
 ##### HTML 兼容库：
 
@@ -28,7 +28,7 @@
 * [HTML 编程接口浏览器支持速查](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [htmlreference.io](http://htmlreference.io/)
 
-##### 检查/校验：
+##### 检查/提示：
 
 * [HTMLHint](http://htmlhint.com/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
@@ -44,7 +44,7 @@
 ##### 代码书写公约：
 
 * [HTML 代码指南](http://codeguide.co/#html)
-* [书写一致且符合规范 HTML 代码的原则](https://github.com/necolas/idiomatic-html)
+* [一致且符合规范的 HTML 书写原则](https://github.com/necolas/idiomatic-html)
 
 ##### 工作流：
 
@@ -54,7 +54,7 @@
 
 * [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 
-##### 当月 GitHub 热门代码仓库：
+##### 当月 GitHub 热门 HTML 仓库：
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 
