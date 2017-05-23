@@ -63,7 +63,7 @@
 
 ##### JavaScript 编程语言 (ECMAScript 262)
 
-> Javascript 是一个高级的，动态的，弱类型的解释性编程语言，被包含在 ECMAScript 的语言规范中。同 HTML 和 CSS 一样，它是万维网内容生产环节必不可少的三种技术之一，被大多数网站所使用，并且在不需要使用插件的情况下被所有现代的浏览器所支持。Javascript 基于原型并且把函数视为头等公民，因此是一种多范式的编程语言，支持面向对象，命令式以及函数式编程风格。它有一个可被用来操作文字，数组，日期以及正则表达式的 API，然而并不包含任何 I/O，因此像建网，存储或者图形工具之类的功能就需要依赖它所在的开发环境。
+> JavaScript 是一个高级的，动态的，弱类型的解释性编程语言，被包含在 ECMAScript 的语言规范中。同 HTML 和 CSS 一样，它是万维网内容生产环节必不可少的三种技术之一，被大多数网站所使用，并且在不需要使用插件的情况下被所有现代的浏览器所支持。Javascript 基于原型并且把函数视为头等公民，因此是一种多范式的编程语言，支持面向对象，命令式以及函数式编程风格。它有一个可被用来操作文字，数组，日期以及正则表达式的 API，然而并不包含任何 I/O，因此像建网，存储或者图形工具之类的功能就需要依赖它所在的开发环境。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
@@ -113,7 +113,7 @@
 
 * [介绍 JSON](http://json.org/)
 * [JSON API](http://jsonapi.org/)
-* [数据交换格式 —— JSON](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [数据交换格式 JSON](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
 ##### 网络内容无障碍指南 (WCAG) & 可无障碍访问的富互联网应用 (ARIA)
 
