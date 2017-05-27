@@ -10,21 +10,21 @@
 
 虽然大多数浏览器已经装备了web开发工具，但[谷歌开发工具](https://developers.google.com/web/tools/chrome-devtools/)是目前最受关注和广泛使用的工具。
 
-建议您学习和使用 [谷歌网页开发人员工具](https://developers.google.com/web/tools/chrome-devtools/)，只因为学习网页开发人员工具的最佳资源皆围绕着Chrome DevTools。
+建议您学习和使用[谷歌网页开发工具](https://developers.google.com/web/tools/chrome-devtools/)，只因为学习网页开发人员工具的最佳资源皆围绕着谷歌开发工具。
 
 ##### 学习谷歌web开发工具:
 
-* [谷歌开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [阅读][$]
-* [探索学习Chrome DevTools](http://discover-devtools.codeschool.com/)
-* [掌握谷歌开发者工具](https://frontendmasters.com/courses/chrome-dev-tools/) [阅读][$]
-* [使用Chrome开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [阅读][$]
+* [谷歌开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [阅读][付费]
+* [探索学习谷歌开发工具](http://discover-devtools.codeschool.com/)
+* [掌握谷歌开发工具](https://frontendmasters.com/courses/chrome-dev-tools/) [阅读][付费]
+* [使用Chrome开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [阅读][付费]
 
 ##### 谷歌web开发工具相应文档:
 
 * [命令行API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 * [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-* [各DevTools文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
-* [自定义DevTools](https://developer.chrome.com/devtools/docs/settings)
+* [各开发工具文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [自定义开发工具](https://developer.chrome.com/devtools/docs/settings)
 
 ##### 新闻/时讯/播客/小贴士:
 
