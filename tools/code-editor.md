@@ -16,27 +16,27 @@
 4. 提供 HTML，CSS 以及 Javascript 代码补全；
 5. 可以利用插件进行自定义构建；
 6. 有许多可以使用的第三方／社区插件，可以用来把编辑器自定义为自己喜欢的样子；
-7. 小而轻量，同代码不相耦合（即不需要进行代码编辑）。
+7. 小而轻量，同代码不相耦合。
 
 ##### 代码编辑器: [^1]
 
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
-* [Sublime Text](http://www.sublimetext.com/) [$]
-* [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
+* [Sublime Text](http://www.sublimetext.com/) [付费]
+* [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [付费]
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ##### 在线代码编辑器:
 
-* [Cloud9](https://c9.io) [free to $]
-* [Codeanywhere](https://codeanywhere.com) [free to $]
+* [Cloud9](https://c9.io) [增值付费]
+* [Codeanywhere](https://codeanywhere.com) [增值付费]
 
 ##### 可运行，可分享的代码编辑器:
 
-可以用来分享定量且即刻可以运行在 web 浏览器中的代码。这类工具并非真正的代码编辑器。
+可以用来分享一定数量，且即刻可以运行在 web 浏览器中的代码。这类工具并非真正的代码编辑器。
 
-* [CodePen](http://codepen.io/) [free to $]
-* [jsbin.com](http://jsbin.com/) [free to $]
+* [CodePen](http://codepen.io/) [增值付费]
+* [jsbin.com](http://jsbin.com/) [增值付费]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [liveweave.com](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
@@ -45,7 +45,7 @@
 
 ###### 建议：
 
-[^1] 强烈建议使用 [Visual Studio Code](https://code.visualstudio.com/) ，这款编辑器非常优质并且处于持续的更新中 ——— 作为微软出品的软件，质量和更新速度都能够到有效保证。
+[^1] 强烈建议使用 [Visual Studio Code](https://code.visualstudio.com/) ，这款编辑器非常优质并且处于持续的更新中，另，作为微软出品的软件，其质量和更新速度都能够到有效的保证。
 
 
 
