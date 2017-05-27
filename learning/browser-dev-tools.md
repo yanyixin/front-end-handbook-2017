@@ -28,7 +28,7 @@
 
 ##### 新闻/时讯/播客/小贴士:
 
-* [Dev Tips](https://umaar.com/dev-tips/)
+* [开发小贴士](https://umaar.com/dev-tips/)
 
 
 
