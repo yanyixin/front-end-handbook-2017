@@ -1,5 +1,5 @@
 
-# 前端开发者所使用的开发技术
+# 前端开发者所使用的技术
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 
@@ -14,20 +14,20 @@
 6. JavaScript 编程语言 (ECMAScript 262)
 7. JavaScript 对象表示法 (JSON)
 8. 文档对象模型(DOM)
-9. 网络 APIs (HTML5 和 friends 或者浏览器 APIs)
+9. 网络 APIs (HTML5 或者浏览器 APIs)
 10. 网络内容可达性指南 (WCAG) & 可访问的富互联网应用 (ARIA)
 
-下面的介绍涵盖了以上技术的定义，相关文档以及具体规范。至于更加详尽的和网络开发规范请参看 [platform.html5.org](https://platform.html5.org/)。
+下面的介绍涵盖了以上技术的定义，相关文档以及具体规范。至于更加详尽的网络开发规范请参看 [platform.html5.org](https://platform.html5.org/)。
 
 ##### 超文本标记语言 (HTML)
 
-> 超文本标记语言，通常被称为 HTML，是被用作创建网页的标准标记语言。网络浏览器可以读取 HTML 文件并且把它们渲染成可见或可听的网页。HTML 在语义上描述了一个网站的结构，并且暗示了其表现形式，因此是一种标记语言，而非程序语言。
+> 超文本标记语言，通常被称为 HTML，被用作创建网页的标准标记语言。网络浏览器可以读取 HTML 文件并且把它们渲染成可见或可听的网页。HTML 在语义上描述了一个网站的结构，并且隐含了其表现形式，因此是一种标记语言，而非程序语言。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/HTML)</cite>
 
 相关规范／文档：
 
-* [W3C HTML 规范大全]http://www.w3.org/standards/techs/html#w3c_all)
+* [W3C HTML 规范大全](http://www.w3.org/standards/techs/html#w3c_all)
 * [动态标准中的 HTML 元素](https://html.spec.whatwg.org/multipage)
 * [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 * [W3C 的 HTML 5.2](http://w3c.github.io/html/)
@@ -37,7 +37,7 @@
 
 ##### 层叠样式表 (CSS)
 
-> 层叠样式表（CSS）是一种样式语言，用来描述使用标记语言编写的文档的外观和格式。尽管使用样式表来改变样式的网页和用户界面最常见的编写方式是 HTML 和 XHTML，它也能被运用在任何使用 XML 编写的文档中，其中包括 XML，SVG 和 XUL。同 HTML 和 Javascript 一样，CSS 是用以构建具有视觉冲击力的网页和用户界面的基础技术。
+> 层叠样式表（CSS）是一种样式语言，用来描述使用标记语言编写的文档的外观和格式。尽管样式表通常被用来改变以 HTML 和 XHTML 的方式编写的网页和用户界面的样式，它也能被运用在任何使用 XML 编写的文档中，其中包括 XML，SVG 和 XUL。同 HTML 和 Javascript 一样，CSS 是用以构建具有视觉冲击力的网页和用户界面的基础技术。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
 
@@ -46,24 +46,24 @@
 * [W3C CSS 规范大全](http://www.w3.org/Style/CSS/current-work#roadmap)
 * [层叠样式表 2.2 (CSS 2.2) 规范](https://drafts.csswg.org/css2/)
 * [CSS 参考资料](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [第三级选择器](http://www.w3.org/TR/css3-selectors/)
+* [第三代选择器](http://www.w3.org/TR/css3-selectors/)
 
 ##### 文档对象模型 (DOM)
 
-> 文档对象模型（DOM）是一个跨平台并且具有语言无关性的传统，用来表示 HTML，XTHML 以及 XML 文档中的对象并与它们进行交互。每分文档中按照树形结构进行组织的节点，被称为 DOM 树。可以使用 DOM 树中的对象所拥有的方法对该对象进行处理和操作。DOM 的 API 中规定了它的公共接口。
+> 文档对象模型（DOM）是一个跨平台并且具有语言无关性的概念，用来表示 HTML，XTHML 以及 XML 文档中的对象以及这类对象的交互方式。每份文档中按照树形结构进行组织的节点，被称为 DOM 树。可以使用 DOM 树中的对象所拥有的方法对该对象进行处理和操作。DOM 的 API 规定了它的公共接口。
 
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Document_Object_Model)</cite>
 
 相关规范／文档：
 
-* [文档对象模型 (DOM) 的第三级事件规范](https://www.w3.org/TR/DOM-Level-3-Events/)
+* [文档对象模型 (DOM) 的第三代事件规范](https://www.w3.org/TR/DOM-Level-3-Events/)
 * [DOM 动态标准](https://dom.spec.whatwg.org/)
 * [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
 ##### JavaScript 编程语言 (ECMAScript 262)
 
-> JavaScript 是一个高级的，动态的，弱类型的解释性编程语言，被包含在 ECMAScript 的语言规范中。同 HTML 和 CSS 一样，它是万维网内容生产环节必不可少的三种技术之一，被大多数网站所使用，并且在不需要使用插件的情况下被所有现代的浏览器所支持。Javascript 基于原型并且把函数视为头等公民，因此是一种多范式的编程语言，支持面向对象，命令式以及函数式编程风格。它有一个可被用来操作文字，数组，日期以及正则表达式的 API，然而并不包含任何 I/O，因此像建网，存储或者图形工具之类的功能就需要依赖它所在的开发环境。
+> JavaScript 是一个高级的、动态的、弱类型的解释性编程语言，被包含在 ECMAScript 的语言规范中。同 HTML 和 CSS 一样，它是万维网内容生产环节必不可少的三种技术之一，被大多数网站所使用，并且在不需要使用插件的情况下被所有现代的浏览器所支持。Javascript 基于原型并且把函数视为头等公民，因此是一种多范式的编程语言，支持面向对象，命令式以及函数式编程风格。它有一个可被用来操作文字，数组，日期以及正则表达式的 API，然而并不包含任何 I/O，因此像建网，存储或者图形工具之类的功能就需要依赖它所在的开发环境。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
@@ -73,7 +73,7 @@
 
 ##### Web APIs (HTML5 及其他)
 
-> 当使用 Javascript 给网页编写代码的时候，有许多的 APIs 可供使用。以下是一张关于所有在开发网站或者网络应用时可以使用的公共接口的表。
+> 当使用 Javascript 给网页编写代码的时候，有许多的 API 可供使用。以下是一张关于所有在开发网站或者网络应用时可以使用的公共接口的表。
 
 ><cite>&#8212; [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API)</cite>
 
@@ -83,7 +83,7 @@
 
 ##### 超文本传输协议 (HTTP)
 
-> 超文本传输协议（HTTP）是一个为分布式的，协作的，多媒体的信息系统指定的应用协议。HTTP 是万维网数据交流的基础。
+> 超文本传输协议（HTTP）是一个为分布式的、协作的、多媒体的信息系统指定的应用协议。HTTP 是万维网数据交流的基础。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
 
