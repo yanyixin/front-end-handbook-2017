@@ -1,12 +1,12 @@
-# Front-End Dev Skills
+# 前端开发技能
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
 
 <cite>图片来源：<a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
 
-假设各个方向的前端开发者已经掌握高级 HTML、CSS、DOM、JavaScript、HTTP/URL和浏览器技能的基础。
+假设每个领域的前端开发者都使用基础的高级 HTML、CSS、DOM、JavaScript、HTTP/URL和浏览器技能。
 
-除了 HTML、CSS、DOM、JavaScript、HTTP/URL、和浏览器开发的专业知识，一个前端开发者还需要掌握以下一个或多个技能：
+除了 HTML、CSS、DOM、JavaScript、HTTP/URL以及浏览器开发的专业知识，一个前端开发者还需要掌握以下一项或多项技能：
 
 * 内容管理系统（亦称 CMS）
 * Node.js
