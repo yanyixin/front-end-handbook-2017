@@ -4,7 +4,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)</cite>
 >
-> **功能测试** - 功能测试是一种质量保证（QA）的过程。同时它也是一种黑盒测试，它的测试用例基于组件的设计。功能测试即给定输入检查输出，程序的内部结构很少被考虑（不像白盒测试）。功能测试通常描述的是系统做什么。
+> **功能测试** - 功能测试是一种质量保证（QA）的过程。同时它也是一种黑盒测试，它的测试用例基于组件的设计。功能测试即给定输入检查输出，它很少考虑程序的内部结构（不像白盒测试）。功能测试通常描述的是系统做什么。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)</cite>
 >
@@ -14,11 +14,11 @@
 
 ##### 综合学习：
 
-* [Front-End First: Testing and Prototyping JavaScript Apps](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) [watch][$]
-* [Let's Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) [watch][$]
-* [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) [watch]
-* [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) [read][$]
-* [Testable JavaScript](https://www.amazon.com/gp/product/1449323391?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a27df21b09e3eff9ad8033a5c959e7f0&camp=1789&creative=9325) [read][$]
-* [Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code](https://www.amazon.com/Test-Driving-JavaScript-Applications-Confident-Maintainable/dp/1680501747?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c97c9c87e634569328a335cba0b0c15f&camp=1789&creative=9325)[read][$]
-* [Test-Driven JavaScript Development](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) [read][$]
-* [The Way of the Web Tester: A Beginner's Guide to Automating Tests](https://www.amazon.com/Way-Web-Tester-Beginners-Automating/dp/1680501836/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3e2c87950e0350d64c9d9862ed2ef524&camp=1789&creative=9325) [read][$]
+* [前端优先: 测试并原型化 JavaScript 应用](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) [视频][付费]
+* [编写测试驱动的 JavaScript](http://www.letscodejavascript.com/) [视频][付费]
+* [JavaScript 测试](https://www.udacity.com/course/javascript-testing--ud549) [视频]
+* [JavaScript 测试妙方](http://jstesting.jcoglan.com/) [阅读][付费]
+* [可测试的 JavaScript](https://www.amazon.com/gp/product/1449323391?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a27df21b09e3eff9ad8033a5c959e7f0&camp=1789&creative=9325) [阅读][付费]
+* [测试驱动的 JavaScript 应用: 开发快速, 自信, 可维护的代码](https://www.amazon.com/Test-Driving-JavaScript-Applications-Confident-Maintainable/dp/1680501747?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c97c9c87e634569328a335cba0b0c15f&camp=1789&creative=9325)[阅读][付费]
+* [测试驱动的 JavaScript 开发](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) [阅读][付费]
+* [Web 测试之路: 新手自动测试指南](https://www.amazon.com/Way-Web-Tester-Beginners-Automating/dp/1680501836/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3e2c87950e0350d64c9d9862ed2ef524&camp=1789&creative=9325) [阅读][付费]
