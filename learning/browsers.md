@@ -33,8 +33,8 @@
 * [加速你的CSS：浏览器如何布局网页](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [阅读]
 * [浏览器如何工作：现代浏览器的幕后原理](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [阅读]
 * [浏览器是如何真正渲染一个网站的？](https://www.youtube.com/watch?v=SmE4OwHztCc) [观看]
-* [是什么会触发布局和重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
-* [每位前端开发者必须知道的网页渲染](http://frontendbabel.info/articles/webpage-rendering-101/) [阅读]
+* [什么会触发布局和重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
+* [每位前端开发者必须知道的网页渲染技能](http://frontendbabel.info/articles/webpage-rendering-101/) [阅读]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
 
@@ -55,15 +55,15 @@
 
 ##### 浏览器开发
 
-在过去，前端开发者要花费很多时间写代码来兼容几种不同浏览器。 这是曾经与现在相比一个巨大的问题。现在，第三方工具（例如：jQuery、React、 Post-CSS、Babel等等）结合现代浏览器使得浏览器开发相当容易。新的挑战不是用户使用哪个浏览器，而是他们选择哪种设备运行浏览器。
+在过去，前端开发者要花费很多时间写代码来兼容几种不同浏览器。 与现在相比，这曾是一个巨大的问题。现在，第三方工具（例如：jQuery、React、 Post-CSS、Babel等等）结合现代浏览器使得浏览器开发相当容易。新的挑战不是用户使用哪个浏览器，而是他们选择哪种设备运行浏览器。
 
 ##### 浏览器中的常青树
 
-最新版本的最现代浏览器被认为是常青浏览器。也就是说，从理论上讲他们应该不需要用户操作自动更新。自动更新浏览器的这一举措已经反过来淘汰了不自动更新的旧版浏览器。
+大多数现代浏览器的最新版本被认为是常青浏览器。也就是说，从理论上讲他们应该不需要用户操作自动更新。自动更新浏览器的这一举措已经反过来淘汰了不自动更新的旧版浏览器。
 
 ##### 选择浏览器 [^1]
 
-正如现代，大多数前端开发人员使用Chrome和“Chrome”开发工具”开发前端代码。然而，最常用的现代浏览器都提供开发工具。选择哪个用于开发是一个主观的选择。最重要的问题是了解你必须支持哪个浏览器，哪个设备，然后适当地进行测试。
+如今，大多数前端开发人员使用Chrome和“Chrome”开发工具”开发前端代码。然而，最常用的现代浏览器都提供开发工具。使用哪个用于开发是一个主观的选择。最重要的问题是了解你必须支持哪个浏览器，哪个设备，然后适当地进行测试。
 
 ***
 
