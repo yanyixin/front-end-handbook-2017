@@ -1,43 +1,43 @@
-# Recap of Front-end Development in 2016
+# 2016 前端开发回顾
 
-* The year of the [UI component, and tree of UI components](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/), for building complex UI's.
-* No longer mainstream development blasphemy: components being constructed from a single file, potentially contain HTML, CSS, and JS, IN ONE FILE!
-* [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/), [Webpack](https://webpack.js.org/), ECMAScript 2015 (aka ES6), and [Babel](https://babeljs.io/) gain massive adoption. These solutions [rise](http://stackoverflow.com/research/developer-survey-2016#technology-trending-tech-on-stack-overflow) [to](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-bundlers) [the](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-framework-essential) [top](http://stateofjs.com/2016/frontend/) [of](http://stateofjs.com/2016/flavors/) [all](http://stateofjs.com/2016/buildtools/) the polls as the most used tech.
-* Developers realized, in most cases, HTML 5 hybrid mobile development via webviews doesn't provide enough wins when building native apps.
-* [React Native](https://facebook.github.io/react-native/) and [NativeScript](https://www.nativescript.org/) start to replace mobile HTML5 hybrid webview development.
-* [Many abandon](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.f9waa6mnx) Gulp for NPM scripts, but Gulp remains popular.
-* SASS remains a popular tool, while [PostCSS (+ CSSNext) gains ground](https://tylergaw.com/articles/sass-to-postcss).
-* Linting/Hinting [HTML](http://htmlhint.com/), [CSS](http://stylelint.io/), and [JavaScript](http://eslint.org/) is a thing most developers do (ESlint replaces [JShint](http://jshint.com/) & [JSCS](http://jscs.info/) merges into ESLint).
-* A trend of developers abandoning Sublime and Atom for [Visual Studio Code](https://code.visualstudio.com/) begins.
-* [jQuery remains](https://trends.builtwith.com/javascript), but usage/interest is [declining](https://www.google.com/trends/explore?q=jQuery). [jQuery 3 was released](https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/), much like a tree falling in a forest that nobody hears.
-* [Vue.js](https://vuejs.org/) continues to gain converts. Deservingly so!
-* JavaScript functional programming & patterns [get](https://www.manning.com/books/functional-programming-in-javascript) [a](https://github.com/MostlyAdequate/mostly-adequate-guide) [lot](https://github.com/getify/Functional-Light-JS) [of](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) attention.
-* [Offline development](https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/) & [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) go mainstream.
-* Microsoft [shows up and contributes](http://developer.telerik.com/featured/microsoft-done-lately/).
-* Developing native applications for windows, OSX, and linux using things like [NW.js](https://nwjs.io/) and [Electron](http://electron.atom.io/) via web technologies becomes a thing.
-* [Angular 2](https://angular.io/) (in the future aka "[Angular](https://juristr.com/blog/2016/12/let-me-explain-angular-release-cycles/)") gets off the pot and most realize it will never be as mainstream as Angular 1.
-* JavaScript broadly remains at the [center](http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow) [of](http://stackoverflow.com/research/developer-survey-2016#technology-most-popular-technologies) [software](http://stackoverflow.com/research/developer-survey-2016#technology-correlated-technologies) technologies.
-* More developers start caring about tooling (e.g. automation) and testing.
-* [Static site generators](https://www.staticgen.com/) are [taken](https://github.com/vigetlabs/gulp-starter/tree/blendid) [seriously](https://phenomic.io/).
-* [CSS Grid excitement grows](http://meyerweb.com/eric/thoughts/2016/12/05/css-grid/) and the future looks bright.
-* [NPM](https://www.npmjs.com/) gets some competition from [Yarn](https://yarnpkg.com/).
-* The next evolution of React-like solutions shows up via [Preact](https://preactjs.com/), [Deku](https://github.com/anthonyshort/deku), [Rax](https://github.com/alibaba/rax), and [inferno](https://infernojs.org/) showcasing evolution without much API change.
-* Mostly people learn to accept [JSX](https://facebook.github.io/jsx/), and now they can't imagine not using it.
-* A workable CSS module pattern (CSS encapsulation) is actualized and used, thus [CSS in JS](https://github.com/MicheleBertoli/css-in-js) becomes a viable solution for many.
-* More people turning to UI functional/integration testing including concepts like visual [CSS](https://css-tricks.com/automating-css-regression-testing/) & RWD regression testing.
-* The days of [battling](https://kangax.github.io/compat-table/es6/) [inconsistent browser API's](https://html5test.com/results/desktop.html) are almost behind us due to a massive decline in usage and development for [older versions of IE](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0).
-* Most everyone realized they will have to have a [multi-device strategy](http://www.intel.com/content/dam/www/public/us/en/images/iot/guide-to-iot-infographic.png) plan when developing for the web
-* More developers, from other languages, continue to flood the JavaScript space bringing with them things like [type checking](https://flowtype.org/) and an [obsession with class syntax and OOP concepts](https://www.typescriptlang.org/).
-* Front-end devs are introduced to [Hot Module replacement techniques and time travel debugging](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i).
-* More waiting for a native [JavaScript browser module loader](https://whatwg.github.io/loader/).
-* [Enforcing CSS](https://css-tricks.com/stylelint/) and [JavaScript style conventions](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations)
-* A small but noticeable number of developers are starting to [choose Elm over JavaScript](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/).
-* [TypeScript](https://www.typescriptlang.org/) gets some serious use and fanboys.
-* http://aurelia.io/ becomes the [smart choice for enterprise developers](https://www.youtube.com/watch?v=6I_GwgoGm1w&t=3315s) (i.e. support!).
-* [Webpack](https://webpack.js.org/configuration/) gets its act [together](https://opencollective.com/webpack) and solidifies is position over the superior [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm) solution.
-* [HTTPS, yeah, we're serious about that.](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
-* [BASH](https://msdn.microsoft.com/en-us/commandline/wsl/about) on windows happens.
-* The [notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API) gets used and abused for chrome users, but only after you give it permission.
-* [Firebug officially dead](https://github.com/firebug/firebug).
-* CSS [20 years young](https://www.w3.org/Style/CSS20/) in 2016.
-* [Immutability](https://facebook.github.io/immutable-js/) concepts run rapid.
+- [UI 组件和组件树](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/)被用于构建复杂 UI。
+- 组件由单一文件构成，在单个文件中可能同时包含 HTML、CSS 和 JS 不再有违主流开发思想。
+- [React](https://facebook.github.io/react/)、[Redux](http://redux.js.org/)、[Webpack](https://webpack.js.org/)、ECMAScript 2015（也叫 ES6）和 [Babel](https://babeljs.io/) 被广泛采用。这些解决方案跃居于最常用技术榜单前列。
+- 开发者意识到，在开发原生应用时，借助 webviews 的 H5 混合式移动开发在多数情况下不具备足够优势。
+- [React Native](https://facebook.github.io/react-native/) 和 [NativeScript](https://www.nativescript.org/) 开始替代 H5 混合式 webview 开发。
+- 大多数人舍弃 Gulp 转而使用 NPM 脚本，但 Gulp 仍受欢迎。
+- SASS 工具继续受到欢迎，与此同时 [PostCSS（+ CSSNext）开始发展](https://tylergaw.com/articles/sass-to-postcss)。
+- 大多数开发者都开始对 [HTML](http://htmlhint.com/)、[CSS](http://stylelint.io/) 和 [JavaScript](http://eslint.org/)（ESlint 替代了 [JShint](http://jshint.com/)，[JSCS](http://jscs.info/) 也被整合进 ESLint）进行语法检查。
+- 开发者弃 Sublime 和 Atom 转投 [Visual Studio Code](https://code.visualstudio.com/) 编辑器，这成为一种趋势。
+- [jQuery 仍有热度](https://trends.builtwith.com/javascript)，但使用率和关注度都在[下滑](https://www.google.com/trends/explore?q=jQuery)。[jQuery 3 已然发布](https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/) ，却无人问津。
+- [Vue.js](https://vuejs.org/) 理所应当地吸收更多追随者。
+- JavaScript 函数式编程和模式[备](https://www.manning.com/books/functional-programming-in-javascript)[受](https://github.com/MostlyAdequate/mostly-adequate-guide)[关](https://github.com/getify/Functional-Light-JS)[注](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)。
+- [离线开发](https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/)和[渐进式 WEB 应用（PWA）](https://developers.google.com/web/progressive-web-apps/)步入主流。
+- 微软[发力](http://developer.telerik.com/featured/microsoft-done-lately/)。
+- 基于 web 技术，使用 [NW.js](https://nwjs.io/) 和 [Electron](http://electron.atom.io/) 开发 windows，OSX 和 linux 原生应用的方式逐渐成型。
+- [Angular 2 ](https://angular.io/)（在将来也叫作”[Angular](https://juristr.com/blog/2016/12/let-me-explain-angular-release-cycles/)”）跌下神坛，多数人意识到它将不再如 Angular 1 那般辉煌了。
+- JavaScript 大体上保持[软件](http://stackoverflow.com/research/developer-survey-2016#technology-correlated-technologies)技术[的](http://stackoverflow.com/research/developer-survey-2016#technology-most-popular-technologies)[中流砥柱](http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow)位置。
+- 更多的开发者开始把工具化（比如自动化）和测试当回事了。
+- [静态站点生成器](https://www.staticgen.com/)被[重](https://github.com/vigetlabs/gulp-starter/tree/blendid)[视](https://phenomic.io/)起来。
+- [CSS 网格布局（CSS Grid）势头正旺](http://meyerweb.com/eric/thoughts/2016/12/05/css-grid/)且前途无量。
+- [NPM](https://www.npmjs.com/) 受到来自 [Yarn](https://yarnpkg.com/) 的挑战。
+- 下一代类 React 方案的演化通过 [Preact](https://preactjs.com/)、[Deku](https://github.com/anthonyshort/deku)、[Rax](https://github.com/alibaba/rax) 和 [inferno](https://infernojs.org/) 的形式展现，并伴随着少量 API 改动。
+- 此前大多数人学习接受 [JSX](https://facebook.github.io/jsx/)，而如今他们已经享受其中。
+- 一种可用的 CSS 模块模式（CSS encapsulation）已经实现并投入使用，因此对许多人来说，[CSS in JS](https://github.com/MicheleBertoli/css-in-js) 成为一种切实可行的解决方案。
+- 越来越多人着手进行 UI 的功能性、整合性测试，其中包含例如可视化 [CSS](https://css-tricks.com/automating-css-regression-testing/) 和 [RWD](https://css-tricks.com/automating-css-regression-testing/)（译注：响应式网页设计，全称 Responsive web design）回归测试的概念。
+- 得益于[老版本 IE](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0) 使用、开发程度的大幅度降低，为[浏览器 API 一致性](https://html5test.com/results/desktop.html)[而战](https://kangax.github.io/compat-table/es6/)的时代已离我们远去。
+- 几乎人人都意识到开发网页的时候必须考虑[多设备适配策略](http://www.intel.com/content/dam/www/public/us/en/images/iot/guide-to-iot-infographic.png)。
+- 使用其他语言的开发者持续涌入 JS 领域，他们也带来了一些东西：例如[类型检测](https://flowtype.org/)，和对[类语法以及面向对象思想](https://www.typescriptlang.org/)的执念。
+- 前端开发引入了[热模块替换技术和时间旅行调试](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i)。
+- 原生 [JS 浏览器模块加载器](https://whatwg.github.io/loader/)更受期待了。
+- [Enforcing CSS](https://css-tricks.com/stylelint/) 和 [JS 格式规范](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)变得更受重视（就 ES3 到 ES6 编码以及 CSS 预处理语法两者的变化而论）。
+- 少部分开发者开始[在 JS 上跑极限学习机（Extreme Learning Machine）算法](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/)，这足以引起注意。
+- [TypeScript](https://www.typescriptlang.org/) 被正式使用在一些地方，并且圈了一些粉。
+- [aurelia](http://aurelia.io/) 成为企业级开发者的明智之选（也就是说受到支持！）。
+- [Webpack](https://webpack.js.org/configuration/) 采取[措施](https://opencollective.com/webpack)并巩固了优势地位，更胜一筹的 [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm) 解决方案暂居其下。
+- [HTTPS，嗯，这个我们很重视](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
+- [BASH](https://msdn.microsoft.com/en-us/commandline/wsl/about) 在 windows 系统上展露头脚。
+- [通知功能 API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API) 可以被使用了，并在 chrome 上有些滥用，但这只会发生在你授予它权限之后。
+- [FireBug 调试工具退出历史舞台](https://github.com/firebug/firebug)。
+- 2016年，CSS [20 岁](https://www.w3.org/Style/CSS20/)了。
+- [Immutability](https://facebook.github.io/immutable-js/) 概念发展势头正旺。
