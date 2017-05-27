@@ -19,7 +19,7 @@
 ##### 模拟生成 JSON 数据的工具:
 
 * [JSON Generator](http://www.json-generator.com/)
-* [Mockaroo](https://www.mockaroo.com/) [free to $]
+* [Mockaroo](https://www.mockaroo.com/) [增值付费]
 
 ##### 在线 JSON 模拟 API 工具:
 
@@ -34,7 +34,7 @@
 
 ##### 公共 JSON API 列表:
 
-* [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
+* [开发中使用的 JSON APIs 列表](https://github.com/toddmotto/public-apis)
 
 ##### 本地 JSON 模拟 API 工具:
 
