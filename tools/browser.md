@@ -23,7 +23,7 @@
 ##### 浏览器开发/调试工具:
 
 * [谷歌开发工具(别名 DevTools)](https://developers.google.com/web/tools/?hl=en)
-  * [各开发工具文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  * [各开发工具文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
   * [命令行API参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
   * [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts) 
   * [设置](https://developer.chrome.com/devtools/docs/settings) 
@@ -49,11 +49,11 @@
 
 ##### 浏览器托管测试、托管自动化:
 
-* [Browserling](https://www.browserling.com/) [free to $]
-* [BrowserStack](https://www.browserstack.com) [$]
-* [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
+* [Browserling](https://www.browserling.com/) [免费 收费]
+* [BrowserStack](https://www.browserstack.com) [收费]
+* [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [收费]
 * [Nightcloud.io](http://nightcloud.io/)
-* [Sauce Labs](https://saucelabs.com/) [$]
+* [Sauce Labs](https://saucelabs.com/) [收费]
 
 ##### 无界面浏览器:
 
