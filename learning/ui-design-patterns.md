@@ -17,13 +17,13 @@
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)</cite>
 
-为了使大家能够支持，并且有能力创建可用的用户界面，我会至少推荐以下的权威文档：
+为了使大家有能力创建可用的用户界面，我会推荐以下的权威文档：
 
-* [界面：交互设计原理](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) [read][$]
-* [为黑客而设计: 逆向工程之美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) [read][$]
-* [献给非专业设计师的设计教程](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) [watch]
-* [设计图形界面](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) [read][$]
-* [设计网络图形界面: 高级交互设计原理和模式](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) [read][$]
-* [别让我思考: 关于网络可用性的常识](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) [read][$]
+* [界面：交互设计原理](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) [阅读][增值付费]
+* [为黑客而设计: 逆向工程之美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) [阅读][增值付费]
+* [献给非专业设计师的设计教程](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) [观看]
+* [设计图形界面](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) [阅读][增值付费]
+* [设计网络图形界面: 高级交互设计原理和模式](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) [阅读][增值付费]
+* [别让我思考: 关于网络可用性的常识](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) [阅读][增值付费]
 
 
