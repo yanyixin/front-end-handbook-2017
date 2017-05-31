@@ -6,8 +6,8 @@
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Headless_browser)</cite>
 
-* [使用 PhantomJS 和 CasperJS 使网络自动化](https://app.pluralsight.com/library/courses/automating-web-phantom-js-casper-js/table-of-contents) [视频][$]
-* [PhantomJS 入门](https://www.amazon.com/Getting-Started-PhantomJS-Aries-Beltran/dp/1782164227/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b3838a0feeb0fad33069af34e9a5aa1e&camp=1789&creative=9325) [文章][$]
-* [PhantomJS 教材](https://www.amazon.com/PhantomJS-Cookbook-Rob-Friesel/dp/178398192X?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=fd9f7dddf81520cd186b72918ab5df59&camp=1789&creative=9325) [文章][$]
+* [使用 PhantomJS 和 CasperJS 使网络自动化](https://app.pluralsight.com/library/courses/automating-web-phantom-js-casper-js/table-of-contents) [视频][增值付费]
+* [PhantomJS 入门](https://www.amazon.com/Getting-Started-PhantomJS-Aries-Beltran/dp/1782164227/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b3838a0feeb0fad33069af34e9a5aa1e&camp=1789&creative=9325) [文章][增值付费]
+* [PhantomJS 教材](https://www.amazon.com/PhantomJS-Cookbook-Rob-Friesel/dp/178398192X?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=fd9f7dddf81520cd186b72918ab5df59&camp=1789&creative=9325) [文章][增值付费]
 * [PhantomJS 网络自动化](https://www.youtube.com/watch?v=OqEcn_6GBDI) [视频]
-* [快捷的 PhantomJS](https://www.packtpub.com/web-development/rapid-phantomjs-video) [视频][$]
+* [快捷的 PhantomJS](https://www.packtpub.com/web-development/rapid-phantomjs-video) [视频][增值付费]
