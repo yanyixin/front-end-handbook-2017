@@ -1,12 +1,12 @@
-# Self Directed Learning
+# 自学
 
-This section focuses on free and paid resources (video training, books, etc.) that an individual can use to direct their own learning process and career as a front-end developer.
+本节重点介绍适合前端开发人员自我指导学习和自我指导职业发展的免费及付费资源（视频课程、图书等）。
 
-The learning resources mentioned will include both free and paid material. Paid material will be indicated with [$].
+以下所提及的资料包括免费和付费资料，其中付费资料将使用 [$] 标注。
 
-The author believes that anyone with the right determination and dedication can teach themselves how to be a front-end developer. All that is required is a computer connected to the web and some cash for books and online video training. 
+作者相信，任何有决心且愿意付出的人都能够通过自我学习成为一名前端开发者。你只需要一台连接到互联网的计算机，以及一些用来购买书籍和视频课程的经费。
 
-Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
+下面是一些视频学习网站（以技术为重点），我通常也推荐从这些站点中寻找学习内容：
 
 * [codecademy.com](https://codecademy.com)
 * [codeschool.com](https://www.codeschool.com/)
@@ -16,12 +16,12 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [Freecodecamp](https://www.freecodecamp.com)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [laracasts.com](https://laracasts.com/)
-* [lynda.com](http://www.lynda.com/) [careful, quality varies]
+* [lynda.com](http://www.lynda.com/) [注意甄别，质量参差不齐]
 * [mijingo.com](https://mijingo.com/)
-* [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
+* [pluralsight.com](http://www.pluralsight.com/) [注意甄别，质量参差不齐]
 * [Treehouse](https://teamtreehouse.com/)
 * [tutsplus.com](https://tutsplus.com/courses)
-* [Udacity](https://www.udacity.com/courses/web-development) [careful, quality varies]
+* [Udacity](https://www.udacity.com/courses/web-development) [注意甄别，质量参差不齐]
 
 
 

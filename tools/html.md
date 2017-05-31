@@ -1,60 +1,60 @@
-# HTML Tools
+# HTML 工具
 
-##### HTML Templates/Boilerplates/Starter Kits:
+##### HTML 模板/样板/入门套件：
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
-* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
-* [HTML5 Boilerplate](https://html5boilerplate.com/)
-* [HTML5 Bones](http://html5bones.com/)
-* [Mobile boilerplate](https://html5boilerplate.com/mobile/)
-* [Web Starter Kit Boilerplate & Tooling for Multi-Device Development](https://developers.google.com/web/tools/starter-kit)
+* [电子邮件样板](https://github.com/seanpowell/Email-Boilerplate)
+* [HTML5 样板](https://html5boilerplate.com/)
+* [HTML5 骨架](http://html5bones.com/)
+* [移动端样板](https://html5boilerplate.com/mobile/)
+* [Web 入门套件样板及多设备开发工具](https://developers.google.com/web/tools/starter-kit)
 
-##### HTML Polyfill:
+##### HTML 兼容库：
 
 * [html5shiv](https://github.com/aFarkas/html5shiv)
 
-##### Transpiling:
+##### 转译语言（Transpiling）：
 
 * [HAML](http://haml.info/)
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
-##### References:
+##### 参考：
 
-* [Element attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
-* [Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
+* [元素属性](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
+* [元素](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 * [HTML Arrows](http://htmlarrows.com/)
-* [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
-* [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [HTML 实体字符速查](http://entity-lookup.leftlogic.com/)
+* [HTML 编程接口浏览器支持速查](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [htmlreference.io](http://htmlreference.io/)
 
-##### Linting/Hinting:
+##### 检查/提示：
 
 * [HTMLHint](http://htmlhint.com/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 
-##### Optimizer:
+##### 优化：
 
 * [HTML Minifier](http://kangax.github.io/html-minifier/)
 
-##### Online Creation/Generation/Experimentation Tools:
+##### 在线创作/生成/试验工具：
 
 * [tablesgenerator.com](http://www.tablesgenerator.com/)
 
-##### Authoring Conventions:
+##### 代码书写公约：
 
-* [HTML Code Guide](http://codeguide.co/#html)
-* [Principles of Writing Consistent, Idiomatic HTML](https://github.com/necolas/idiomatic-html)
+* [HTML 代码指南](http://codeguide.co/#html)
+* [一致且符合规范的 HTML 书写原则](https://github.com/necolas/idiomatic-html)
 
-##### Workflow:
+##### 工作流：
 
 * [Emmet](http://emmet.io/)
 
-##### HTML Outliner:
+##### HTML 大纲：
 
 * [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 
-##### Trending HTML Repositories on GitHub This Month:
+##### 当月 GitHub 热门 HTML 仓库：
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 

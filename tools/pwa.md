@@ -1,9 +1,9 @@
-# Progressive Web App Tools:
+# 渐进式 Web 应用工具：
 
-##### Front-End App Frameworks:
+##### 前端 APP 开发框架:
 
-* [lighthouse](https://github.com/GoogleChrome/lighthouse)
-* [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [灯塔（lighthouse）](https://github.com/GoogleChrome/lighthouse)
+* [渐进式 Web 应用程序开发清单](https://developers.google.com/web/progressive-web-apps/checklist)
 
 
 
