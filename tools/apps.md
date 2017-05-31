@@ -14,14 +14,14 @@
 
 ##### 原生混合移动WebView框架（例如：浏览器引擎驱动）：
 
-这些解决方案一般使用[Cordova](https://cordova.apache.org/)、 [crosswalk](https://crosswalk-project.org/)、或自定义作为使用原生接口的桥梁。
+这些解决方案一般使用[Cordova](https://cordova.apache.org/)、 [crosswalk](https://crosswalk-project.org/)、或自定义WebView作为使用原生接口的桥梁。
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
 ##### 原生混合移动开发Webview环境/平台/工具 （例如：浏览器引擎驱动）:
 
-这些解决方案一般使用[Cordova](https://cordova.apache.org/)、 [crosswalk](https://crosswalk-project.org/)、或自定义作为使用原生接口的桥梁。
+这些解决方案一般使用[Cordova](https://cordova.apache.org/)、 [crosswalk](https://crosswalk-project.org/)、或自定义WebView作为使用原生接口的桥梁。
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
@@ -38,7 +38,7 @@
 
 ##### 各种平台应用程序框架：
 
-这些解决方案可以让您的应用程序在多个平台和设备上构建。
+这些解决方案可以让您在多个平台和设备上构建应用程序。
 
 * [manifoldJS](http://manifoldjs.com/)
 
@@ -66,7 +66,7 @@
 
 ###### 注意：
 
-在2017年基于UI应用程序构建组件时需要注意[inferno](https://github.com/trueadm/inferno)、[Svelte](https://svelte.technology/guide)、 和[NX](https://github.com/RisingStack/nx-framework)。
+2017年基于UI应用程序构建组件时需要注意[inferno](https://github.com/trueadm/inferno)、[Svelte](https://svelte.technology/guide)、 和[NX](https://github.com/RisingStack/nx-framework)。
 
 ***
 
@@ -76,7 +76,7 @@
 
 如果你开发的是一个数据交互少的小型网站（基本上是一个静态页面），这时不需要使用前端框架。许多工作可以使用任务运行工具如[Gulp 和 jQuery](https://github.com/vigetlabs/gulp-starter)来替代，同时可以避免不必要的学习和使用复杂的应用程序框架工具。
 
-想要比React更小的框架，可以考虑下[Preact](https://preactjs.com/)。Preact是对React重构核心议案（类似像Mithril的库）， 使用尽可能少的代码，并对ES2015提供一流的支持。目前库的大小是3kb左右（压缩和打包之后）。
+想要比React更小的框架，可以考虑下[Preact](https://preactjs.com/)。Preact是对React重构核心的议案（类似像Mithril的库）， 使用尽可能少的代码，并对ES2015提供一流的支持。目前库的大小是3kb左右（压缩和打包之后）。
 
 无法决定使用React还是Angluar 2时，请阅读，["Angular 2 vs React：终极对决"](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c#.j0r1xdvzl)。
 
@@ -84,7 +84,7 @@
 
 ###### 调查结果：
 
-The images below are from the [2016前端工具调查](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715名开发者) 和 [2016年JS调查状况](http://stateofjs.com/)（9307名开发者）
+下面图片的来自 [2016前端工具调查](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715名开发者) 和 [2016年JS调查状况](http://stateofjs.com/)（9307名开发者）
 
 ![](../images/q13.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
 
