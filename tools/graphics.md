@@ -1,5 +1,4 @@
-
-# 图形工具（例如，SVG，canvas，webgl）
+# 图形工具（例如 SVG、canvas、webGL）
 
 ##### 通用工具:
 
