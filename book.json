@@ -1,7 +1,8 @@
 {
     "structure": {
-        "readme": "myIntro.md"
+        "readme": "README.md"
     },
+    "language": "zh-hans",
     "plugins": ["scripts"],
     "pluginsConfig": {
         "scripts": {
