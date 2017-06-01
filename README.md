@@ -137,11 +137,12 @@
 
 ***
 
-**下载 .pdf, .epub, or .mobi 格式的电子书**:
+**下载 .pdf、.epub、或 .mobi 格式的电子书**:
 
-* [https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+* 中文：[https://www.gitbook.com/book/sqrtthree/front-end-handbook-2017/details](https://www.gitbook.com/book/sqrtthree/front-end-handbook-2017/details)
+* 英文：[https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-**贡献内容， 提建议 或者修复 GitHub 上的 bugs**:
+**贡献内容、提建议或者修复 GitHub 上的 bugs**:
 
 * [https://github.com/xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017)
 
