@@ -43,7 +43,7 @@ WEB 浏览器用于从[万维网（WWW.）](https://en.wikipedia.org/wiki/World_
 最常见的 webview 开发解决方案如下：
 - [Cordova](https://cordova.apache.org/) (通常用于手机、平板的原生应用)
 - [NW.js](https://github.com/nwjs/nw.js) (通常用于桌面应用)
-- [Electron](https://github.com/nwjs/nw.js) (通常用于桌面应用)
+- [Electron](https://electron.atom.io/) (通常用于桌面应用)
 
 ### 基于 WEB 技术的原生应用
 
