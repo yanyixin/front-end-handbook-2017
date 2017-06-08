@@ -113,7 +113,7 @@
   * [模版／数据绑定工具](tools/templates.md)
   * [UI 组件 & 组件包](tools/ui.md)
   * [数据可视化工具（例如图表）](tools/charting.md)
-  * [图形工具（例如 SVG、canvas、webGL）](tools/graphics.md)
+  * [图形工具（例如 SVG、Canvas、WebGL）](tools/graphics.md)
   * [动画工具](tools/animation.md)
   * [JSON 工具](tools/json.md)
   * [占位符内容工具](tools/placeholder.md)
